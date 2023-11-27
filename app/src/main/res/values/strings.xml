@@ -1,0 +1,2335 @@
+<resources>
+    <string name="app_name">Easy To English</string>
+    //app all values sorted start here
+    <string name="sentence">
+        <br> \n</br>
+        <br><b>sentence :</b> যে শব্দ বা শব্দ সমষ্টি দ্বারা সম্পূর্ণ অর্থ প্রকাশ পায় এবং যা সাধারণত কর্তা এবং ক্রিয়া দ্বারা গঠিত তাকে sentence বা বাক্য বলা হয়।\n</br>
+        <br> \n</br>
+ <br><b>Example:</b>\n</br>
+<br>-We practice English everyday. (Here we is subject, practice is verb, English is object and everyday is adverb)\n</br>
+        <br> \n</br>
+<br>Basically there are two parts of a sentence: (একটি Sentence এ মূলত দুটি অংশ থাকে)\n</br>
+        <br> \n</br>
+<br><b>Subject</b> and <b>Predicate</b>\n</br>
+        <br> \n</br>
+<br><b>Subject:</b> A subject of a sentence is a person or thing about which something is said or written.\n</br>
+        <br> \n</br>
+ <br>Predicate that says what the Subject does.\n</br>
+        <br> \n</br>
+<br>যে ব্যক্তি বা বস্তু সম্পর্কে কোনকিছু বলা বা লিখা হয় তাকে Subject বা কর্তা বলে ।\n</br>
+<br>যা subject বা কর্তা সম্পর্কে বলে বা করে বা লিখে তাকে Predicate বলা হয় ।\n</br>
+        <br> \n</br>
+        <br><b>Kinds of Sentence:</b>\n</br>
+<br>They are:-\n</br>
+<br><b>- Assertive Sentence</b>\n</br>
+<br><b>- Interrogative Sentence</b>\n</br>
+<br><b>- Imperative Sentence</b>\n</br>
+<br><b>- Optative Sentence</b>\n</br>
+<br><b>- Exclamatory Sentence</b>\n</br>
+
+<br> \n</br>
+        <br><b>1.Assertive Sentence:</b>\n</br>
+        <br> \n</br>
+<br>An assertive sentence is a simple/general statement or assertion, either affirmative or negative.\n</br>
+<br> \n</br>
+<br>কোনো সাধারণ বিবৃতি বা বক্তব্যকে Assertive Sentence (বিবৃতিমূলক বাক্য) বলে\n</br>
+        <br> \n</br>
+<br>Pattern:\n</br>
+<br>Subject + verb + object/complement/adverb/adjective\n</br>
+        <br> \n</br>
+<br>Example:\n</br>
+    <br>-English is an International Language. (Affirmative)\n</br>
+<br>-We do not do bad things.\n</br>
+<br> \n</br>
+    <br>Assertive আবার দুই প্রকার\n</br>
+        <br> \n</br>
+        <br><b>i.Affirmative:</b> যে বাক্যে হ্যা বাচক অর্থ প্রকাশ পায় তাকে Assertive sentence বলে।\n</br>
+        <br> \n</br>
+<br>Pattern: sub+verb+obj\n</br>
+<br>Exaple: Rahim plays football.\n</br>
+        <br> \n</br>
+        <br><b>ii. Negative :</b> যে বাক্যে না বাচক অর্থ প্রকাশ পায় তাকে Negative sentence বলে।\n</br>
+        <br> \n</br>
+<br>Pattern: sub+auxi. Verb+not+obj.\n</br>
+<br>Example: He is not a good boy.\n</br>
+<br> \n</br>
+<br><b>2.Interrogative Sentence:</b>\n</br>
+        <br> \n</br>
+<br>An interrogative sentence asks question about a person or thing. It always ends with a note of interrogation a.k.a. question mark (?).\n</br>
+<br>যে বাক্যে প্রশ্ন মূলক অর্থ প্রকাশ পায় তাকে Interrogative Sentence বলে।\n</br>
+<br> \n</br>
+<br>Pattern: Auxi.verb+sub+main verb+obj+?\n</br>
+<br>Wh যুক্ত  Relative pronoune+Auxi.verb+sub+main verb+obj+?\n</br>
+        <br> \n</br>
+<br>Example: Does he eat rice\n</br>
+<br>What is your name?\n</br>
+<br> \n</br>
+        <br><b> 3. Imperative Sentence </b>\n</br>
+        <br> \n</br>
+<br>A sentence that expresses a request, command, order, advice, suggestion, etc. is an imperative sentence.\n</br>
+        <br> \n</br>
+<br>যে বাক্যে আদেশ,উপদেশ, নির্দেশ,নিষেধ, অনুরোধ বোঝায় তাকেই Imperative Sentence বলে।\n</br>
+        <br> \n</br>
+<br>Pattern:\n</br>
+<br>Subject (Invisible) + verb + object\n</br>
+        <br> \n</br>
+<br>Example:\n</br>
+<br>- Take care of you.\n</br>
+<br>- Give me the pen.\n</br>
+<br> \n</br>
+        <br><b>4.Optative Sentence:</b>\n</br>
+        <br> \n</br>
+<br>Wish, desire, prayer, etc. are expressed by the Optative sentence.\n</br>
+        <br> \n</br>
+<br>যে বাক্যে ইচ্ছা আকাঙ্ক্ষা, প্রার্থনা ইত্যাদি অর্থ প্রকাশ পায় তাই  Optative sentence\n</br>
+<br> \n</br>
+<br>Pattern:\n</br>
+<br>May + Noun/ Pronoun + Verb + Others.\n</br>
+        <br> \n</br>
+<br>Example:\n</br>
+<br>- May you live long.\n</br>
+<br>- May Allah bless you.\n</br>
+<br> \n</br>
+        <br><b>5.Exclamatory Sentence:</b>\n</br>
+        <br> \n</br>
+<br>Exclamatory is a sentence which expresses strong/sudden feeling or emotion like surprise, pain, delight, anger, disgust, etc.\n</br>
+        <br> \n</br>
+<br>যে বাক্যে বিষ্ময় সূচক অর্থ প্রকাশ পায় তাকে Exclamatory Sentence বলে।\n</br>
+        <br> \n</br>
+<br>Pattern:\n</br>
+<br>Alas/ Hurrah/ Bravo/ What/ How etc. +sub+verb+ Others\n</br>
+        <br> \n</br>
+<br>Example:\n</br>
+<br>- Hurrah! Our cricket team has won the series.\n</br>
+<br>- Alas! He has failed the competition.\n</br>
+<br> \n</br>
+        <br> \n</br>
+    </string>
+    // end of the part of sentence area
+
+    <string name="partsof_speech">
+<b>Parts Of Speech বা বক্তব্যঃ </b>
+<br>বাক্যে ব্যবহৃত প্রত্যেকটি শব্দকে এক একটি Part of Speech বলে।\n</br>
+        <br>\n</br>
+<br>Karim is a good boy.\n</br>
+<br>He goes to school\n</br>
+        <br>\n</br>
+<br><b>Parts of Speech এর প্রকারভেদঃ</b>\n\n</br>
+<br>There are eight types of parts of speech according to their functions in a sentence.\n</br>
+        <br>\n</br>
+<b>1. Noun-বিশেষ্য</b>\n
+<b>2. Pronoun-সর্বনাম</b>\n
+<b>3. Adjective-নাম বিশেষণ</b>\n
+<b>4. Verb-ক্রীয়া বা কাজ</b>\n
+<b>5. Adverb-ক্রীয়া বিশেষণ</b>\n
+<b>6. Preposition-পদান্বয়ী অব্যয়</b>\n
+<b>7. Conjunction-সংযোজক অব্যয়</b>\n
+<b>8. Interjection-আবেগ সূচক অব্যয়</b>\n
+<br>\n</br>
+<br><b>1. Noun:বিশেষ্য:</b>\n </br>
+<br>Noun refers to any kind of name. This means, whatever we are seeing and watching around us is a noun.\n</br>
+ <br>\n</br>
+<br>যে word দ্বারা কোন কিছুর নাম প্রকাশ করা হয় তাকে noun বলে ।\n</br>
+        <br>\n</br>
+<br>Exp:  Karim does not like to go to academy.( এই বাক্যে Karim একজন ব্যক্তির নাম ।)\n</br>
+        <br>\n</br>
+<br>Kuwait is a Muslim country.( এখানে কুয়েত একটি দেশের নাম ।)\n</br>
+        <br>\n</br>
+
+<br>Noun আবার ৫ প্রকার।-\n</br>
+        <br>\n</br>
+<br><b>i. Proper Noun-নাম বাচক বিশেষ্য</b>\n</br>
+<br><b>ii. Common Noun-জাতিবাচক বিশেষ্য</b>\n</br>
+<br><b>iii. Collaborative Noun- সমষ্টিবাচক বিশেষ্য</b>\n</br>
+<br><b>iv. Material Noun- বস্তুবাচক বিশেষ্য</b>\n</br>
+<br><b>v. Abstract Noun- গুণবাচক বিশেষ্য</b>\n</br>
+        যেমন-\n
+<br><b>i. Proper Noun: বিশেষ্য:</b>\n</br>
+<br>\n</br>
+<br>Proper noun is the name of some particular person, place or thing.\n\n</br>
+<br>Proper noun হল কোন বিশেষ ব্যক্তি, স্থান বা জিনিসের নাম।\n</br>
+        <br>\n</br>
+  <br>Example-\n</br>
+<br>Dhaka is the capital of Bangladesh-ঢাকা একটি বিশেষ রাজধানীর নাম\n</br>
+<br>-Sunny is a smart boy-সানি একটি নির্দিষ্ট ছেলের নাম\n\n</br>
+\n
+<br><b>ii. Common Noun সাধারণ বিশেষ্য</b>\n\n</br>
+ <br>Common noun is a noun that is not the name of a particular thing or class but that represents one or all of the members of that class or thing.\n</br>\n
+ <br>সাধারণ বিশেষ্য এমন একটি বিশেষ্য যা একটি নির্দিষ্ট জিনিস বা শ্রেণীর নাম নয় তবে এটি সেই শ্রেণি বা জিনিসের এক বা সমস্ত সদস্যকে প্রতিনিধিত্ব করে ।\n</br>
+        \n
+<br> Example-\n</br>
+<br>-Sunny is a smart boy.( এখানে ছেলে সাধারণ বিশেষ্য এবং সানি একটি যথাযথ বিশেষ্য)\n</br>
+        \n
+<br>- Rimi is a clever girl.( এখানে মেয়ে সাধারণ বিশেষ্য এবং রিমি একটি যথাযথ বিশেষ্য)\n</br>
+        \n
+ <br><u> বাক্য ছাড়া উদাহরণ:</u>\n</br>
+<br>- মানুষ ছেলে, মেয়ে, মা, বাবা, শিশু, শিশু, শিক্ষক, ছাত্র, পুরুষ, মহিলা ইত্যাদি ।\n\n</br>
+<br>- জিনিস বই, টেবিল, কম্পিউটার, কলম, পেন্সিল ইত্যাদি।\n\n</br>
+
+<br>        <b>iii. Collective Noun:</b>\n</br>\n
+<br>A collective noun is the name of a collection or number or group of effects or persons taken together and considered of as one total.\n\n</br>
+<br> একটি সমষ্টিগত বিশেষ্য হল একটি সংগ্রহ বা সংখ্যা বা জিনিস বা ব্যক্তির গোষ্ঠীর নাম যা একসাথে নেওয়া হয় এবং একটি সম্পূর্ণ হিসাবে বিবেচিত হয়\n\n</br>
+<br> Example\n</br>
+<br>- The cortege is ready for the passage.\n\n</br>
+<br>- Public was not apprehensive of the incident.\n\n</br>
+
+<br><b>iv. Material Noun উপাদান বিশেষ্য</b>\n\n</br>
+<br> A material noun is the name of material, substance or component of commodity.\n\n</br>
+ <br>similar as iron, sword, gold, coal, tableware, sugar, wheat,etc.\n
+     \n
+বস্তুগত বিশেষ্য হল কোনো কিছুর উপাদান, পদার্থ বা উপাদানের নাম ।\n\n</br>
+<br> যেমন লোহা, ইস্পাত, সোনা, কয়লা, রূপা, চিনি, গম ইত্যাদি । \n\n</br>
+<br>- The choker is made of gold.\n\n</br>
+<br>- The cow gives us milk.\n\n</br>
+
+<br>        <b>v. Abstract Noun বিমূর্ত বিশেষ্য</b>\n</br>
+        \n
+ <br>An Abstract Noun is generally the name of a quality, action, state or conception.\n\n</br>
+ <br>একটি বিমূর্ত বিশেষ্য সাধারণত একটি গুণ, কর্ম, অবস্থা বা ধারণার নাম ।\n\n</br>
+<br>Abstract nouns are the names of similar effects that ca not be touched, tested, smelt or heard.\n\n</br>
+ <br>বিমূর্ত বিশেষ্যগুলি এমন জিনিসগুলির নাম যা স্পর্শ করা, পরীক্ষা করা, গন্ধ করা বা শোনা যায় না ।\n\n</br>
+ <br>similar as-\n</br>
+<br> Action- Judgment, movement, horselaugh, abomination, theft,etc.\n\n</br>
+ <br>State- Nonage, babyhood, youth, death, poverty, slavery,etc.\n\n</br>
+<br>\n</br>
+   <br> <b>2. Pronoun সর্বনাম:</b>\n\n</br>
+<br>Definition: A pronoun is a word used in place of a noun. (Noun -এর পরিবর্তে বেবহৃত শব্দকে pronoun বলে)\n\n</br>
+<br>Example: হেলাল ভাল ছেলে। হেলাল প্রত্যহ স্কুলে যায়। হেলাল মা-বাবার কথা মেনে চলে।\n\n</br>
+<br>বাক্যগুলোতে বারবার “হেলাল” শব্দটি বেবহৃত হয়ে তাদের শ্রুতিমধুরতা নষ্ট করছে। এই শ্রুতিমাধুর্য রক্ষা করা একটি উপায় রয়েছে। তা হল, প্রথম বাক্যের পর প্রতি বাক্যের “হেলাল” -এর স্থলে “সে” ব্যবহার করতে হবে। যেমন- হেলাল ভাল ছেলে। সে প্রত্যহ স্কুলে যায়। সে মা-বাবার কথা মেনে চলে।\n\n</br>
+
+<br><b>3. Adjective: নাম বিশেষণ:</b>\n</br>
+        \n
+<br>Definition: An adjective is a word that qualifies a noun or a pronoun. (Noun বা pronoun কে বিশেষিত করে এমন শব্দকে adjective বলে।)\n\n</br>
+<br>Examples:\n</br>
+<br>Mahfuj is a good boy.\n\n</br>
+<br>She is a beautiful girl.\n\n</br>
+<br>Jasmine wears a blue skirt.\n\n</br>
+<br>১ম sentence -এ good (ভাল) – wordটি দ্বারা boy word-টির গুণ তুলে ধরা হচ্ছে।\n\n</br>
+<br>২য় sentence -এ “beautiful” word-টি দ্বারা girl word-টির গুণ বুঝাচ্ছে।\n\n</br>
+<br>৩য় sentence-এ blue (নীল) – শব্দটি দ্বারা skirt (এক প্রকার জামা) এর বৈশিষ্ট বুঝানো হচ্ছে।\n\n</br>
+<br>এভাবে adjective দ্বারা কোন গুণ, দোষ, অবস্থা, বৈশিষ্ট ইত্যাদি বুঝানো হয়। এসব দোষ, গুণ, অবস্থা কার? verb-এর? অবশ্যই না। Adjective সবসময়ই noun বা pronoun -এর দোষ, গুণ ইত্যাদি বুঝায়।\n\n</br>
+
+<br><b>4. Verb: ক্রিয়া</b>\n</br>\n
+<br>Definition: A verb is a word that expresses some action. (Verb হল সেই word যা কোন কাজ প্রকাশ করে।)\n\n</br>
+<br>কোনকিছু করা, খাওয়া, ধরা, মারা, বোঝা, ভাবা, খেলা, বা ভাঙা হল একেকটি কাজ। যে word দিয়ে এই ‘কাজ ‘ বা action বুঝান হয় তাকে বলে verb.\n\n</br>
+<br>Example: Tell, see, jump, sing, dance, laugh, think, give, take, love, come, go, run, do, have, be.\n\n</br>
+<br>You may also like: Right form of verbs\n\n</br>
+<br>\n</br>
+<br><b>5. Adverb: ক্রীয়া বিশেষণ:</b>\n\n</br>
+<br>Definition: An adverb is a word that modifies a verb, an adjective, or another adverb.\n</br>
+    \n
+<br>Adverb হল এমন word যা কোন verb, adjective, বা অন্য কোন adverb কে বিশেষায়িত করে বা তার সাথে নতুন অর্থ যোগ করে।\n\n</br>
+<br>Explanation Nd Examples:\n</br>
+<br>a. যখন verb কে modify করেঃ swiftly, well, strongly, forcibly, etc. যেমন – He runs swiftly. (সে দ্রুত দৌড়ায়।)\n\n</br>
+<br>এখানে “দ্রুত” শব্দটি দৌড়ানোর “ধরন” বুঝাচ্ছে। নিচের প্রশ্নগুলো করে যে word থেকে উত্তর পাওয়া যাবে তা হল adverb.\n\n</br>
+<br>•	How? (কেমন করে? যেমন, কেমন করে দৌড়ায়? উত্তর, “দ্রুত” দৌড়ায়।)\n\n</br>
+<br>•	When? (কখন?)\n\n</br>
+<br>যেমন,\n
+    He came in the morning. যদি প্রশ্ন করা হয় “কখন?” তাহলে উত্তর পাওয়া যায় “সকালে” বা “in the morning”. সুতরাং এটি হল adverb. এখানে একের অধিক word থাকায় আমরা একে বলতে পারি adverbial phrase.\n\n</br>
+<br>•	Where? (কোথায়?)\n\n</br>
+<br>He lives here. সে “কোথায়?” থাকে? উত্তর হল “এখানে” (here). সুতরাং “here” হল adverb.\n\n</br>
+<br>b. যখন adjective কে modify করেঃ\n\n</br>
+<br>He is a good boy sentence টিতে “good” হল adjective. যদি good -এর অর্থকে আরও শক্তিশালী করতে চাই তাহলে লিখতে পারিঃ He is a very good boy. এখানে very হল adverb.\n\n</br>
+<br>c. যখন অন্য কোন adverb কে modify করেঃ\n\n</br>
+<br>He runs swiftly – এখানে swiftly হল adverb.\n\n</br>
+<br>\n</br>
+<br><b>6.Preposition:পদান্বয়ী অব্যয়:</b>\n</br>
+        \n
+<br>Pre = আগে, পূর্বে; Position = স্থান। Prepostion হল সেই সব word যারা কোন শব্দের আগে বসে পূর্ববর্তী word আর ঐ word এর মধ্যে সম্পর্কে স্থাপন করে।\n\n</br>
+<br>Definition: A preposition is a word placed before a noun or a pronoun to show its relation to some other word in the sentence.\n\n</br>
+<br>Examples: I have a feeling for him. (তার জন্য আমার অনুভূতি রয়েছে।) এখানে for অর্থ “জন্য”। এই শব্দটি feeling এবং him এর মধ্যে যোগসূত্র স্থাপন করছে।\n\n</br>
+<br>আবার, She went into the room. এখানে into শব্দটি দিয়ে তার যাওয়া ও room এর মধ্যকার সম্পর্ক প্রকাশিত হচ্ছে। এই into হল একটি preposition. আগের উদাহরণের forও একটি preposition.\n\n</br>
+<br>Similar কিছু Example: beside, under, below, with, from, behind, above, over, of, on, by, to at, etc.\n\n</br>
+
+<br><b>7. Conjunction:সংযোজক অব্যয়:</b>\n\n</br>
+<br>Definition: A conjunction is a word used to join two or more sentences. (দুই বা ততোধিক sentence কে যে word যুক্ত করে তাকে conjunction বলে।)\n\n</br>
+<br>Examples:\n</br>
+<br>সাব্বির সেখানে গিয়েছিল, (Sabbir went there.)\n\n</br>
+<br>মাহফুজ সেখানে গিয়েছিল (Mahfuj went there.)\n\n</br>
+<br>বাক্য দুটিকে যদি যুক্ত করে লিখতে চাই তাহলে লিখতে হয়-\n\n</br>
+<br>সাব্বির এবং মাহফুজ সেখানে গিয়েছিল (Sabbir and Mahfuj went there.) এই and দ্বারাই বাক্য দুটিকে একটি বাক্যে পরিণত করা সম্ভব হয়েছে। সুতরাং and হল conjunction. আবার –\n\n</br>
+<br>He is poor (সে গরিব) এবং\n\n</br>
+<br>He is honest (সে সৎ)\n\n</br>
+<br>বাক্য দুটিকে একত্র করে নিচের মত\n\n</br>
+<br>করে লেখা যায়ঃ\n\n</br>
+<br>He is poor but honest (সে গরিব কিন্তু সৎ)\n\n</br>
+<br>এক্ষেত্রে but হল conjunction.\n\n</br>
+<br>Similar আরও কিছু conjunction: However, because, while, till, unless, if, as, etc.\n\n</br>
+
+<br><b>8. Interjection:আবেগ সূচক অব্যয়:</b>\n\n</br>
+<br>Definition: An interjection is a word that expresses some strong and sudden feeling or emotion. (প্রবল তাৎক্ষনিক আবেগ প্রকাশক word হল interjection.)\n\n</br>
+<br>Example: হায়! সে আর বেঁচে নেই। (Alas! He is no more.)\n\n</br>
+<br>বাক্যটিতে “হায়!” শব্দটি দিয়ে হৃদয়ের প্রবল বেদনা প্রকাশিত হয়েছে। এটি হল interjection. এরকমঃ\n\n</br>
+<br>Fie! You are a thief. (ছি! তুমি একটি চোর।)\n\n</br>
+<br>Hurrah! we have won the game. (কি মজা! আমরা খেলায় জিতেছি।)\n\n</br>
+<br>To Asses your knowledge about Parts of Speech, give free test:\n\n</br>
+</string>
+<!--    // end of the part of parts_of_speech area-->
+
+    <string name="tense">
+        \n\n
+<br>Tense is concept of the time which may be present, past or future.\n\n</br>
+<br>কোন কাজ সম্পাদনের সময়কে tense বা কাল বলে। Tense দ্বারা বর্তমান, অতীত কিংবা ভবিষ্যত সময়কে উল্লেখ করা হয়.\n</br>
+<br>Example:- I eat rice. (present)\n</br>
+<br>- I ate rice. (past)\n</br>
+<br>- I will eat rice. (future)\n\n</br>
+
+<br>Types of Tense:\n\n</br>
+<br><b><i>1.Present Tense</i></b>\n</br>
+<br><b><i>2.Past Tense</i></b>\n</br>
+<br><b><i>3.Future Tense</i></b>\n</br>
+<br>\n</br>
+        <br><b><u>Present tense</u></b>\n</br>
+<br>The present tense use to talk about something that like currently going on,something that is habitually performed, or a state that generally or currently exists.\n</br>
+        <br>\n</br>
+<br>বর্তমান কাল:  আমরা বর্তমান কাল ব্যবহার করি এমন কিছু সম্পর্কে কথা বলার জন্য যা বর্তমানে চলছে, এমন কিছু যা অভ্যাসগতভাবে সম্পাদিত হয়, বা এমন একটি অবস্থা যা সাধারণত বা বর্তমানে বিদ্যমান।\n</br>
+        <br>\n</br>
+<br>Structure: Subject + verb (s/es) + object.\n</br>
+        <br>\n</br>
+<br>Examples:\n</br>
+<br>•	She lives in Spain.\n</br>
+<br>•	Bob drives a taxi.\n</br>
+        <br>\n</br>
+        <b>Past tense</b>\n\n
+<br>The past tense is used to describe an action or event that happened in the past or a state of being in the past and when the event or action took place.\n</br>
+        <br>\n</br>
+<br>অতীত কাল একটি ক্রিয়া বা ঘটনা বর্ণনা করতে ব্যবহৃত হয় যা অতীতে ঘটেছিল বা অতীতে থাকা অবস্থায় এবং যখন ঘটনা বা ক্রিয়া সংঘটিত হয়েছিল।\n</br>
+        <br>\n</br>
+  <br>Example:\n</br>
+<br>Structural formula:\n</br>
+<br>Subject + verb (2nd form) + object.\n</br>
+<br>Examples:\n</br>
+<br>We met yesterday.\n</br>
+<br>\n</br>
+        <b>Future tense</b>\n\n
+<br>The future tense is a verb tense used to The  describe an event or action that has not yet happened and is expected to happen  future.\n</br>
+        <br>\n</br>
+<br>ভবিষ্যৎ কাল : ভবিষ্যৎ কাল হল একটি ক্রিয়া যা  এখনও ঘটেনি এবং ভবিষ্যতে ঘটবে বলে আশা করা হচ্ছে।\n</br>
+        <br>\n</br>
+<br>Structural formula, Subject + shall/will+ verb (s/es) + object.\n</br>
+<br>Example:\n</br>
+<br>He will be here soon.\n</br>
+        <br>\n</br>
+<br>In a Apart from the three main types of tenses - present, past, and future - there are different subtypes of tenses which are mentioned below.\n</br>
+<br>\n</br>
+<br>Main Classification of Tense\n\n</br>
+<br><b><i>Present Tense</i></b>\n\n</br>
+
+<br><b> 1. Present Indifinite Tense:</b> The present tense is used to express what is happening or happening every day or a fact in itself. Adding the letter s or es makes a simple present tense.\n</br>
+<br>\n</br>
+<br>সরল বর্তমান কাল: বর্তমান কালে যে কাজটি ঘটছে বা ঘটতেছে তাহাই সরল বর্তমান বা Present Indifinite Tense। s বা es অক্ষর যোগ করলে একটি সরল বর্তমান কাল হয়।\n</br>
+<br>\n</br>
+<br>বাংলায় চেনার উপায়ঃ যায়, খায়, করে, কর, ঘুমাই, পড়ে, খেলে ইত্যাদি থাকবে।\n</br>
+        <br>\n</br>
+<br>Structure: sub+verb(s/es) +obj\n</br>
+<br>for example-\n</br>
+<br>•	She writes a book.\n</br>
+<br>•	Moon comes out at night.\n</br>
+<br>\n</br>
+        <br><b><i>2. Present Continues Tense:</i></b>\n</br>
+<br> Present Continues Tense means that something is going on or happening in the present tense.\n</br>
+<br>\n</br>
+<br>বর্তমান কালে কোন কাজ চলছে বা ঘটছে এমন বুঝালে Present Continues Tense বলে।\n</br>
+        <br>\n</br>
+<br>চেনার উপায়ঃ  করিতেছি, করছি, করছেন ইত্যাদি।\n</br>
+<br>\n</br>
+<br>Structure: sub+aux verb(am/is/are) + main verb+ing+obj\n</br>
+<br>\n</br>
+<br>Example: the birds are flying\n</br>
+<br>They are playing football.\n</br>
+<br>\n</br>
+<b><i>3. Present Perfect Tense:</i></b>
+    \n
+The present perfect tense is used to describe actions that are completed.\n
+        <br>\n</br>
+<br>বর্তমান নিখুঁত কাল এমন কোন কাজ বা ক্রিয়া সংঘটিত হওয়াকে বোঝায় যা- অতীতে শুরু হয়ে বর্তমানের কিছু সময় পর্যন্ত চলমান ছিল বা বর্তমানে সমাপ্ত হয়েছে।\n</br>
+        <br>\n</br>
+<br>চেনার উপায়ঃ \n</br>
+<br>করিয়াছ, করেছ, করেছিস, করেছেন ইত্যাদি।\n</br>
+<br>Structure: sub+have/has+main verb এর 3rd from\n\n</br>
+<br>for example-\n</br>
+<br>•	I have seen the movie you love the most.\n</br>
+<br>•	He has been to India\n</br>
+<br>\n</br>
+<br><b><i>4. Present Perfect Continuous Tense:</i></b> We use the present perfect continuous when the focus is on an action that is not yet finished or completed.\n</br>
+        <br>\n</br>
+<br>Present Perfect Continuous Tense এমন কোন কাজ বা ক্রিয়া সংঘটিত হওয়াকে বোঝায় যা- অতীতে শুরু হয়ে বর্তমান কালের নির্দিষ্ট সময় পর্যন্ত চলমান থাকবে আছে বোঝাতে ব্যবহৃত হয়।\n</br>
+        <br>\n</br>
+<br>চেনার উপায়ঃ \n</br>
+        <br>করিতেছি, করিতেছ, করেছি ইত্যাদি নির্দিষ্ট সময় হতে শুরু করে অনির্দিষ্ট সময় পর্যন্ত চলতে থাকে।\n</br>
+        <br>\n</br>
+<br>Structure: sub+have been/has been+main verb+ing+since/for+obj.\n\n</br>
+<br>for example-\n</br>
+<br>•	I have been waiting for the car for an hour.\n</br>
+<br>•	It has not been raining since last Friday.\n</br>
+<br>\n</br>
+        <br><b><i>Past Tense</i></b>\n\n</br>
+ <br><b><i>1. Past indefinite Tense:</i></b> It often comes with an adverb of time. Sometimes it can be used without an adverb of time. Used for past habits.\n</br>
+        <br>\n</br>
+<br>অতীতে ঘটে যাওয়া একটি ক্রিয়া নির্দেশ করতে ব্যবহৃত হয়। কখনও কখনও এটি সময়ের একটি বিশেষণ ছাড়াও ব্যবহার করা যেতে পারে। অতীতের অভ্যাসের জন্য ব্যবহৃত হয়।\n</br>
+<br>\n</br>
+<br>বাংলায় চেনার উপায়ঃ\n</br>
+<br>করেছিল, ঘুমিয়াছিল, পড়তেছিল, খেলেছিল ইত্যাদি।\n</br>
+        <br>\n</br>
+<br>Structure: sub+verb এর 2nd form +obj+ext.\n</br>
+<br>for example-\n</br>
+<br>•	I went to school.\n</br>
+<br>•	You worked very hard in exams.\n</br>
+<br>\n</br>
+<br><b><i>2. Past Continuous Tense:</i></b> The past continuous tense is a very important tense in English. We use it to express what we were in the middle of doing at a particular moment in the past.\n</br>
+        <br>\n</br>
+<br>অতীতে একটি নির্দিষ্ট মুহূর্তে আমরা যা করার মাঝখানে ছিলাম তা প্রকাশ করতে আমরা Past Continuous Tense ব্যবহার করি।\n</br>
+        <br>\n</br>
+<br>বাংলায় চেনার উপায়ঃ \n</br>
+        <br>করিতেছিল, খেলিতেছিল, খাইতেছিল ইত্যাদি\n</br>
+        <br>\n</br>
+<br>Structure: sub+was/were+main verb +ing+obj+ext.\n\n</br>
+
+<br>for example-\n</br>
+<br>•	I was cooking last night for my sister’s children.\n</br>
+<br>•	They were not playing scrabble when I checked on them.\n</br>
+<br>\n</br>
+
+<br><b><i>3. Past Perfect Tense:</i></b> The past perfect tense is easy to understand and to use in a sentence. This tense talks about an event which happened in the past. If two actions happened in the past, the past perfect tense is used to display the action that took place earlier.\n</br>
+        <br>\n</br>
+<br>যদি অতীতে দুটি ক্রিয়া ঘটে থাকে তবে অতীতের সমাপ্ত  কালটি পূর্বে সংঘটিত ক্রিয়াটি প্রদর্শন করতে ব্যবহৃত হয়।\n</br>
+        <br>\n</br>
+<br>Structure: sub+had+verb এর 3rd form+ main verb+obj.\n</br>
+<br>\n</br>
+<br>for example-\n</br>
+<br>•	We were too late when the movie started.\n</br>
+<br>•	I thought I had seen the movie before but I was wrong.\n</br>
+<br>\n</br>
+<br><b><i>4. Past Perfect Continuous Tense:</i></b> Used to denote an event that started before a certain point in the past and continued up to sometime in the past.\n</br>
+\n
+        <br>এমন একটি ঘটনা বোঝাতে ব্যবহৃত হয় যা অতীতের একটি নির্দিষ্ট বিন্দুর আগে শুরু হয়েছিল এবং অতীতের কিছু সময় পর্যন্ত অব্যাহত ছিল।\n</br>
+        <br>\n</br>
+<br>বাংলায় চেনার উপায়ঃ  \n</br>
+        <br>ক্রিয়ার শেষে তেছিল, তেছিলাম ইত্যাদি উল্লেখ্য থাকে।\n</br>
+<br>Structure: sub+had been+main verb+ing +since+obj.\n</br>
+<br>\n</br>
+<br>for example-\n</br>
+<br>•	Sita was very tired. She had been dancing.\n</br>
+<br>•	Had the student been roaming outside the classroom?\n</br>
+<br>\n</br>
+<br><b><u>Future Tense</u></b>\n</br>
+<br><b><i>1.Future indefinite Tense:</i></b> The period of time after speaking a sentence is considered future tense. This tense is used to express future events and happenings\n</br>
+        <br>\n</br>
+<br>একটি বাক্য বলার পরের সময়কালকে ভবিষ্যৎ কাল বলে ধরা হয়। অনেকসময় এই কাল ভবিষ্যত ঘটনা প্রকাশ করতে ব্যবহৃত হয়।\n</br>
+<br>বাংলায় চেনার উপায়ঃ\n</br>
+        <br>ক্রিয়ার শেষে থাকিবে, করিবে, পড়িবে ইত্যাদি থাকে।\n</br>
+
+<br>Structure: sub+shall/will+obj\n</br>
+<br>\n</br>
+<br>for example-\n</br>
+<br>Sita will ask the questions tomorrow.\n</br>
+<br>They will never speak about this.\n</br>
+  <br>      \n</br>
+<br><b><i>2. Future Continuous Tense:</i></b> The action is assumed to start in the future (tomorrow) and the action will continue until sometime in the future.\n</br>
+<br>এটি একটি ক্রিয়া প্রকাশ করতে ব্যবহৃত হয় যা ভবিষ্যতে চলিতে থাকিবে বা অব্যাহত থাকিবে এমন কোন ক্রিয়া বোঝাতে ব্যবহৃত হয়।\n</br>
+        <br>\n</br>
+<br>বাংলায় চেনার উপায়ঃ \n</br>
+        <br>বলিতে থাকিব্বে, করিতে থাকিবে, চলিতে থাকিবে ইত্যাদি।\n\n</br>
+<br>Structure: sub+shall be/will be+main verb+ing+obj. \n\n</br>
+<br>for example-\n</br>
+<br>•	I will be playing football on the ground tomorrow.\n</br>
+<br>•	She will be writing a letter.\n</br>
+        <br>\n</br>
+<br><b><i>3. Future Perfect Tense:</i></b> This is a form of the verb that will happen in the future and will be completed at a certain time in the future is called Future Perfect Tense.\n\n</br>
+<br>এটি verb এর এমন একটি রুপ যা ভবিষ্যতে ঘটবে এবং ভবিষ্যতে একটি নির্দিষ্ট সময়ের মধ্যে সম্পন্ন হবে তাকে Future Perfect Tense বলে।\n</br>
+        <br>\n</br>
+<br>বাংলায় চেনার উপায়ঃ\n</br>
+        <br>ক্রিয়ার শেষে করিয়া থাকিবে, থাকিবেন, থাকিব ইত্যাদি\n\n</br>
+<br>Structure: sub+shall have/will have+verb এর 3rd form+obj+ext.\n\n</br>
+<br>for example-\n</br>
+<br>•	She will have forgotten him by then.\n</br>
+<br>•	She will not have written a letter.\n</br>
+<br>\n</br>
+<br><b><i>4. Future Perfect Continuous Tense:</i></b>\n</br>
+<br>It is an action of the verb that will start at a specific time in the future and continue for some time in the future.\n\n</br>
+<br>এটি verb এর এমন একটি রুপ যা ভবিষ্যতে একটি নির্দিষ্ট সময়ে শুরু হবে এবং ভবিষ্যতে কিছু সময়ের জন্য ঞ্চলমান থাকবে।\n</br>
+        <br>\n</br>
+<br>বাংলায় চেনার উপায়ঃ\n</br>
+        <br>ক্রিয়ার শেষে তে থাকিব, তে থাকিবে ইত্যাদি।\n\n</br>
+<br>Structure: sub+will have/shall have+main verb+ing+ince/for+obj.\n\n</br>
+<br>Example:\n</br>
+<br>•	Tomorrow at 4 pm, I will be on my way to Kolkata.\n</br>
+<br>\n</br>
+        <br>\n</br>
+    </string>
+
+    <!--// end of the part of tense area-->
+
+    <string name="voice">
+<br> \n</br>
+<br>Voice is the way of expressing verbs which describes whether the subject does the work or it has been done by the subject\n</br>
+         <br>\n</br>
+<br>Voice হচ্ছে ক্রিয়ার প্রকাশভঙ্গি যার মাধ্যমে বোঝা যায় যে কোন বাক্যের subject কাজটি করছে/করেছে/করবে নাকি কাজটি subject দ্বারা করা হচ্ছে/হয়েছে/হবে।\n</br>
+<br>\n</br>
+        <br><u>Voice দুই প্রকারঃ</u>\n</br>
+<br><b>1. Active voice</b>\n</br>
+<br><b>2. Passive voice</b>\n</br>
+         <br>\n</br>
+        <br><b>Active voice:</b>\n</br>
+<br>The sentence in which the subject does the work by himself actively in that sentence the verb has an active voice.\n</br>
+         <br>\n</br>
+<br>যে sentence-এ  subject নিজে সক্রিয়ভাবে কাজটি করে সেই sentence-এ verb-এর active voice হয়।\n</br>
+         <br>\n</br>
+        <br><b> Structure:</b>\n</br>
+<br>Subject + Verb + Object\n\n</br>
+<br>Example:\n</br>
+<br>o	I write articles.\n</br>
+         <br>\n</br>
+        <br><b>Passive voice:</b>\n</br>
+<br>The sentence in which the subject does not do the work by himself actively rather the object’s work is done by the subject in that sentence the verb has passive voice.\n</br>
+<br>\n</br>
+<br>যে sentence-এ  subject নিজে সক্রিয়ভাবে কাজটি করে না বরং object-এর কাজটি তার দ্বারা করা হয় সেই sentence-এ verb-এর passive voice হয়।\n</br>
+         <br>\n</br>
+<br> Structure:\n</br>
+<br>Object + be verb+ verb’s past participle + by+ subject\n\n</br>
+<br>Example:\n</br>
+<br>Articles are written by me.\n</br>
+         <br>\n</br>
+<br>active  Voice থেকে passive করার নিয়মগুলো নিচে বর্ণিত হল:\n</br>
+<br><b>Rule 1:</b>\n</br>
+<br>\n</br>
+<br>a. Active voice-এর subject, passive voice-এর object-এ রূপান্তরিত হয়।\n\n</br>
+         <br>\n</br>
+<br>Active voice’s subject is changed to passive voice’s object.\n</br>
+         <br>\n</br>
+<br>b. Active voice-এর object passive voice-এর subject-এ রূপান্তরিত হয়।\n</br>
+         <br>\n</br>
+<br>c. মূল verb-এর past participle ব্যবহৃত হয় এবং auxiliary verb/ be verb নির্বাচন করা হয় subject এবং tense অনুযায়ী ।\n</br>
+         <br>\n</br>
+<br>Main verb’s past participle is used, and auxiliary verb/ be verb is chosen according to subject and tense.\n</br>
+         <br>\n</br>
+<br>Example:\n</br>
+<br>- I write poems. (Active)\n</br>
+         <br>\n</br>
+<br><b>Rule 2:</b>\n</br>
+<br>Indefinite tense-এর ক্ষেত্রে passive voice-এর structure:\n</br>
+        <br>\n</br>
+<br>a. Present- Object’s subject+ am/is/are+ Verb’s past participle+ by+ subject’s object\n</br>
+        <br>\n</br>
+<br>Example:\n</br>
+<br>- She praises me. (Active)\n</br>
+<br>- I am praised by her. (Passive)\n</br>
+<br>\n</br>
+<br>b. Past- Object’s subject+ was/were+ Verb’s past participle+ by+ subject’s object\n</br>
+        <br>\n</br>
+<br>Example:\n</br>
+<br>She praised me. (Active)\n</br>
+<br>I was praised by her. (Passive)\n</br>
+        <br>\n</br>
+<br>c. Future- Object’s subject+ shall be/will be+ Verb’s past participle+ by+ subject’s object\n</br>
+        <br>\n</br>
+<br>Example:\n</br>
+<br>-	She will praise me. (Active)\n</br>
+<br>-	I shall be praised by her. (Passive)\n</br>
+<br>\n</br>
+        <br>\n</br>
+    </string>
+
+    <!--// end of the part of voice area-->
+
+    <string name="article">
+        <br>\n</br>
+<br><b>A, an এবং the কে Article বলে।</b>\n</br>
+<br>Article দুই প্রকার।\n</br>
+        <br>\n</br>
+        <br><b>1.	Indefinite Article</b> and\n</br>
+        <br><b>2.	Definite Article.</b>\n</br>
+<br>\n</br>
+
+        <br><b>Indefinite Article:</b>\n</br>
+<br>A এবং an কে Indefinite Article বলে কারন তারা কোন অনির্দিষ্ট ব্যক্তি, প্রাণী বা বস্তুকে বুঝায়। সচরাচর singular countable noun এর পূর্বে A অথবা an বসে।\n</br>
+        <br>\n</br>
+<br>Example- He has a pen.\n</br>
+<br>- I bought a book.\n</br>
+<br>- This is an elephant.\n</br>
+<br>\n</br>
+        <br><b>Definite Article</b>\n</br>
+<br>The কে definite Article বলে কারন ইহা কোন নির্দিষ্ট ব্যক্তি, প্রাণী বা বস্তুকে বুঝায়।\n</br>
+        <br>\n</br>
+<br>Example-I saw the bird.\n</br>
+<br>- I read the book.\n</br>
+<br>- Dhaka is the capital of Bangladesh.\n</br>
+<br>\n</br>
+        <br><b><u>Use of A and An</u></b>\n</br>
+        <br>\n</br>
+<br>1. সাধারণত consonant এর পূর্বে a এবং vowel (a, e, i, o, u) এর পূর্বে an বসে।\n</br>
+        <br>\n</br>
+<br>যেমন – a hen, a book, a pen, an apple, an egg, an orange.\n</br>
+        <br>\n</br>
+<br>2. শব্দের শুরুতে যদি h থাকে এবং h এর উচ্চারণ h এর মত হলে তার পূর্বে a বসে। কিন্তু h এর উচ্চারণ o বা অন্য কোন উচ্চারণ হলে তার পূর্বে an বসে।\n</br>
+        <br>\n</br>
+<br>যেমন- a horse, a historian, an honest man, an hour.\n</br>
+        <br>\n</br>
+<br>3. শব্দের শুরুতে যদি Vowel থাকে এবং তার উচ্চারণ যদি u এর মত হয় তাহলে তার পূর্বে a বসে।\n</br>
+        <br>\n</br>
+<br>যেমন- a ewe, a European, a uniform, a university, a useful metal.\n</br>
+        <br>\n</br>
+<br>4. O দিয়ে গঠিত শব্দের পূর্বে an বসে। শুধুমাত্র one শব্দের পূর্বে a বসে।\n</br>
+        <br>\n</br>
+<br>যেমন- an open field, an open heart surgery, an opera, an orange, a one taka note, a one eyed man.\n</br>
+        <br>\n</br>
+<br>5. সংক্ষিপ্ত রূপ অর্থাৎ abbreviation এর প্রথম অক্ষর vowel এর মত উচ্চারিত হলে তার পূর্বে an বসে। কিন্তু abbreviation এর প্রথম অক্ষর consonant এর মত উচ্চারিত হলে তার পূর্বে a বসে।\n</br>
+        <br>\n</br>
+<br>যেমন- an M.B.B.S, an F.C.P.S, an M.A, a B.A, a B.SC.\n</br>
+<br>\n</br>
+<br>\n</br>
+
+    </string>
+   <!-- // end of the part of article area-->
+    <string name="number">
+        <br>\n</br>
+<br>Number means in general sense numbers. In the language of grammar, the one-dimensional or multi-dimensional state of a countable noun or pronoun is called a number.\n</br>
+        <br>\n</br>
+<br>Number বলতে সাধারন অর্থে সংখ্যাকে বুঝায়। Grammar এর ভাষায়, যা দ্বারা কোন গণনাবাচক noun বা pronoun এর একমাত্রিক বা বহুমাত্রিক অবস্থাকে বুঝানো হয় তাকে Number বা বচন বলে।\n</br>
+<br>\n</br>
+        <br><u>types of Number:</u>\n</br>
+        <br>\n</br>
+<br>Number সাধারনত দুই প্রকার। যথা –\n</br>
+        <br><b>1•	Singular number</b>\n</br>
+        <br><b>2•	Plural number</b>\n</br>
+<br>\n</br>
+
+        <br><b>Singular Number:</b>\n</br>
+<br>যা দ্বারা কোন গণনাবাচক noun বা pronoun এর একক মাত্রাকে বোঝায় তাকে Singular number বা একবচন বলে।\n</br>
+        <br>\n</br>
+<br>Example:- Book, Brother, Cow, Tree, etc.\n</br>
+<br>\n</br>
+
+        <br><b>Plural number:</b>\n</br>
+        <br>\n</br>
+<br>যা দ্বারা কোন গননাবাচক noun বা pronoun এর বহুমাত্রিক অবস্থাকে বোঝায় তাকে Plural number বা বহুবচন বলে।\n</br>
+        <br>\n</br>
+<br>Example:- Books, Brothers, Cows, Trees, etc.\n</br>
+        <br>\n</br>
+<br>Singular number কে Plural Number এ পরিবর্তন করার নিয়ম-\n</br>
+        <br>\n</br>
+<br>Rule 1:\n</br>
+<br>সাধারনত Singular Noun এর শেষে ‘s’ যোগ করে Plural করতে হয় –\n</br>
+        <br>\n</br>
+<br>Cow –cows, Boy- Boys\n</br>
+        <br>\n</br>
+<br>Rule 2:\n</br>
+<br>Singular Noun এর শেষে s, ss, sh, x, বা z থাকলে এবং শেষের ch এর উচ্চারণ ‘চ’ এর মত হলে ঐ সব Noun এর শেষে es যোগ করে Plural করতে হয়।\n</br>
+<br>Busm-Buses, Class- Classes\n</br>
+<br>\n</br>
+ <br>ব্যতিক্রম\n</br>
+<br>Singular Noun এর  শেষের ‘ch’ এর উচ্চারণ ‘চ’ এর মত না হয়ে ‘ক’ এর মত হলে ‘es’ যোগ না হয়ে শুধু ‘s’ যোগ হয়ে Plural হবে। যেমন –\n</br>
+<br>Stomach-Stomachs, Patriarch- Patriarchs\n</br>
+<br>\n</br>
+
+
+<br><b>Singular number কে Plural Number এ পরিবর্তন করার নিয়ম-</b>\n</br>
+        <br><b>Rule 1:</b>\n</br>
+<br>সাধারনত Singular Noun এর শেষে ‘s’ যোগ করে Plural করতে হয় –\n</br>
+        <br>\n</br>
+<br>Cow- cows, Girl- Girls, Boy- Boys\n</br>
+<br>\n</br>
+        <br><b>Rule 2:</b>\n</br>
+<br>Singular Noun এর শেষে s, ss, sh, x, বা z থাকলে এবং শেষের ch এর উচ্চারণ ‘চ’ এর মত হলে ঐ সব Noun এর শেষে es যোগ করে Plural করতে হয়।\n</br>
+        <br>\n</br>
+<br>Bus- Buses, Class- Classes\n</br>
+<br>\n</br>
+<br><b>Rule 3:</b>\n</br>
+<br>Singular Noun এর শেষ বর্ণটি ‘o’ হলে এবং তার পূর্বের বর্ণটি consonant হলে ঐ noun এর শেষে ‘es’ যোগ করে plural করতে হয়। যেমন- Mango- Mangoes, Potato- Potatoes\n</br>
+<br>\n</br>
+<br>কিন্তু কিছু noun এর শেষে ‘o’ এবং ‘o’ এর পূর্বে consonant থাকা সত্ত্বেও সেগুলোর শেষে ‘s’ যোগ করে plural করতে হয়। Photo- Photos\n</br>
+
+<br><b>Singular number কে Plural Number এ পরিবর্তন করার নিয়ম-</b>\n</br>
+
+<br>\n</br>
+<br><b>Rule 4:</b>\n</br>
+<br>Singular Noun এর শেষে ‘o’ এবং ‘o’ এর পূর্বে vowel থাকলে শুধু ‘s’ যোগ করে plural করতে হয়। Radio- Radios, Cuckoo- Cuckoos\n</br>
+<br>\n</br>
+<br><b>Rule 5:</b>\n</br>
+<br>Singular Noun এর শেষের বর্ণ ‘y’ এবং ‘y’ এর পূর্বে consonant থাকলে ‘y’ এর পরিবর্তে ies যুক্ত করে plural করতে হয়। City- Cities, Baby- Babie\n</br>
+        <br>\n</br>
+<br>কিন্তু y এর পূর্বে vowel হলে সেক্ষেত্রে singular noun এর শেষে শুধু s যোগ করে plural করতে হয়। Key- Keys, Donkey- Donkeys\n</br>
+<br>\n</br>
+<br><b>Rule 6:</b>\n</br>
+<br>f, fe, ef যুক্ত singular noun এর শেষে f, fe, ef উঠিয়ে ves বসিয়ে plural করতে হয়।\n</br>
+        <br>\n</br>
+<br>Calf- Calves\n</br>
+<br>ব্যতিক্রম\n</br>
+        <br>\n</br>
+<br>শেষে ief, oof, ff, rf, if, eef, ife, fe, রয়েছে এ ধরনের বিশেষ কয়েকটি শব্দের শেষে শুধু s যোগ করে plural করতে হয়। Roof- Roofs, Hoof- Hoofs\n</br>
+<br>\n</br>
+<br><b>Rule 7:</b>\n</br>
+<br>কতগুলো singular noun এর মাঝের এক বা একাধিক vowel বা consonant পরিবর্তন করে plural করতে হয়। Man- Men, Woman- Women\n</br>
+        <br>\n</br>
+<br><b>Rule 8:</b>\n</br>
+<br>কতগুলো noun এর শেষে en, ren বা ne যোগ করে plural করতে হয়।\n</br>
+        <br>\n</br>
+<br>Ox- Oxen, Brother- Brethren\n</br>
+        <br>\n</br>
+
+<br><b>Rule 9:</b>\n</br>
+<br>Compound noun গুলোর মূল noun টির শেষে s যোগ করে কিংবা মাঝের vowel পরিবর্তন করে plural করতে হয়।\n</br>
+        <br>\n</br>
+<br>Son-in-law- Sons-in-law, Brother-in-law , Brothers-in-law\n</br>
+<br>\n</br>
+<br><b>Rule 10:</b>\n</br>
+<br>Hyphen(-) বিহীন compound noun গুলোকে s যোগে plural করতে হয়।\n</br>
+        <br>\n</br>
+<br>Handful- Handfuls, Bookcase- Bookcases\n</br>
+<br>\n</br>
+<br>\n</br>
+
+    </string>
+    <!--// end of the part of number area-->
+
+    <string name="gender">
+        <br>\n</br>
+
+<br>Gender (জেন্ডার) - এর বাংলা অর্থ লিঙ্গ। Gender নির্দেশ করে কোন noun বা pronoun পুরুষ, স্ত্রী, ক্লীব না উভয় লিঙ্গ।\n</br>
+        <br>\n</br>
+<br>Gender specifies whether a noun or a pronoun is masculine, feminine, neuter or common.\n</br>
+        <br>\n</br>
+<br><b> Masculine Gender:</b>\n</br>
+<br>যে noun বা pronoun নির্দেশ করে যে কোন প্রাণী পুরুষ তাকে Masculine Gender বলে।\n</br>
+        <br>\n</br>
+<br>The noun or pronoun which indicates that a living being is masculine is called a Masculine Gender.\n</br>
+        <br>\n</br>
+<br>Example:\n</br>
+<br>- Father (পিতা)\n</br>
+<br>- Son (পুত্র)\n</br>
+<br>- Lion (সিংহ), etc.\n</br>
+        <br>\n</br>
+<br><b>Feminine Gender:</b>\n</br>
+<br>যে noun বা pronoun নির্দেশ করে যে কোন প্রাণী স্ত্রী বা মেয়ে তাকে Feminine Gender বলে।\n</br>
+        <br>\n</br>
+<br>The noun or pronoun which indicates that a living being is masculine is called a Feminine Gender.\n</br>
+        <br>\n</br>
+<br>Example:\n</br>
+<br>- Mother (মাতা)\n</br>
+<br>- Daughter (কণ্যা)\n</br>
+<br>- Lioness (সিংহী), etc.\n</br>
+        <br>\n</br>
+<br><b>Neuter Gender:</b>\n</br>
+<br>যে noun কোন জড় বস্তুকে বোঝায় যার কোন পুরুষ বা স্ত্রী অবস্থা নেই তাকে Neuter Gender বলে।\n</br>
+        <br>\n</br>
+<br>The noun which indicates to any lifeless object which does not have any masculine or feminine form is called a Neuter Gender.\n</br>
+        <br>\n</br>
+<br>Example:\n</br>
+<br>- Furniture (আসবাব পত্র)\n</br>
+<br>- Book (বই)\n</br>
+<br>- Computer (কম্পিউটার), etc.\n</br>
+        <br>\n</br>
+<br><b>Common Gender:</b>\n</br>
+<br>যে noun বা pronoun কোন প্রাণীর পুরুষ বা স্ত্রী যেকোন অবস্থাকেই নির্দেশ করতে পারে তাকে Common Gender বলে।\n</br>
+        <br>\n</br>
+<br>The noun or pronoun which can indicate that a living being is either masculine or feminine is called a Common Gender.\n</br>
+        <br>\n</br>
+<br>Example:\n</br>
+<br>- They (তারা বা তাহারা)\n</br>
+<br>- Teacher (শিক্ষক)\n</br>
+<br>- Baby (শিশু), etc.\n</br>
+<br>\n</br>
+        <br><b>Gender পরিবর্তনের নিয়ম:</b>\n</br>
+        <br>\n</br>
+        <br><b>(Rules to change gender)</b>\n</br>
+<br><b>Rule 1:</b>\n</br>
+<br>কিছু Masculine noun-কে সম্পূর্ণ ভিন্ন শব্দ ব্যবহার করে Feminine gender করা হয়।\n</br>
+        <br>\n</br>
+<br>Some masculine noun is changed into feminine gender by using a completely different word:\n</br>
+        <br>\n</br>
+<br>Masculine	Feminine\n</br>
+<br>Man	Woman\n</br>
+<br>Male	Female\n</br>
+<br>Husband	Wife\n</br>
+<br>Father	Mother\n</br>
+        <br>\n</br>
+<br><b>Rule 2:</b>\n</br>
+<br>কিছু Masculine noun-এর শেষে “ess” যোগ করে Feminine gender করা হয়।\n</br>
+        <br>\n</br>
+<br>Some masculine noun is changed into feminine gender by adding “ess” at its end:\n</br>
+        <br>\n</br>
+<br>Masculine	Feminine\n</br>
+<br>Lion	Lioness\n</br>
+<br>Poet	Poetess\n</br>
+<br>Author	Authoress\n</br>
+<br>Host	Hostess\n</br>
+<br>Jew	Jewess\n</br>
+<br>Manager	Manageress\n</br>
+<br>Priest	Priestess\n</br>
+        <br>\n</br>
+<br><b>Rule 3:</b>\n</br>
+<br>কিছু Masculine noun-এর শেষের vowel তুলে সে স্থানে “ess” যোগ করে Feminine gender করা হয়।\n</br>
+        <br>\n</br>
+<br>Some masculine noun is changed into feminine gender by removing the vowel of its end and adding “ess” at that place:\n</br>
+        <br>\n</br>
+<br>Masculine	Feminine\n</br>
+<br>Tiger	Tigress\n</br>
+<br>Director	Directress\n</br>
+<br>Instructor	Instructress\n</br>
+<br>Actor	Actress\n</br>
+<br>Hunter	Huntress\n</br>
+<br>Songster	Songstress\n</br>
+<br>Conductor	Conductress\n</br>
+<br>Benefactor	Benefactress\n</br>
+        <br>\n</br>
+<br><b>Rule 4:</b>\n</br>
+<br>কিছু Masculine noun-এর শেষে একটু ব্যতিক্রমীভিাবে “ess” যোগ করে Feminine gender করা হয়।\n</br>
+        <br>\n</br>
+<br>Some masculine noun is changed into feminine gender by adding “ess” at its end in an exceptional way. Such as:\n</br>
+        <br>\n</br>
+<br>Masculine	Feminine\n</br>
+<br>Master	Mistress\n</br>
+<br>Murderer	Murderess\n</br>
+<br>Emperor	Empress\n</br>
+<br>Abbot	Abbess\n</br>
+<br>Mister	Miss\n</br>
+<br>Duke	Duchess\n</br>
+<br>\n</br>
+<br><b>Rule 5:</b>\n</br>
+<br>কিছু Masculine noun-কে Feminine gender করা হয় এর শেষে a, ine এবং ix যোগ করে।\n</br>
+        <br>\n</br>
+
+<br>Some masculine noun is changed into feminine gender by adding a, ine and ix at its end:\n</br>
+        <br>\n</br>
+<br>Masculine	Feminine\n</br>
+<br>Sultan	Sultana\n</br>
+<br>Hero	Heroine\n</br>
+<br>Prosecutor	Prosecutrix\n</br>
+<br>Proprietor	Proprietrix\n</br>
+<br>Don	Dona\n</br>
+<br>\n</br>
+<br><b>Rule 6:</b>\n</br>
+<br>Compound noun-এর পুরুষবোধক অংশকে Feminine করে এর gender পরিবর্তন করা হয়।\n</br>
+        <br>\n</br>
+<br>A compound noun’s masculine part is made feminine to change the gender:\n</br>
+        <br>\n</br>
+<br>Masculine	Feminine\n</br>
+<br>Son-in-law	Daughter-in-law\n</br>
+<br>Mankind	Womankind\n</br>
+<br>Boy-baby	Girl-baby\n</br>
+<br>Billy-goat	Nanny-goat\n</br>
+<br>Bull-calf	Cow-calf\n</br>
+<br>Male-child	Female-child\n</br>
+        <br>\n</br>
+<br><b>Rule 7:</b>\n</br>
+<br>Compound noun-এর দ্বিতীয় noun-টিকে Feminine করে এর gender পরিবর্তন করা হয়।\n</br>
+        <br>\n</br>
+<br>A compound noun’s second noun is made feminine to change the gender. Such as:\n</br>
+        <br>\n</br>
+<br>Masculine	Feminine\n</br>
+<br>Gentleman	Gentlewoman\n</br>
+<br>Landlord	Landlady\n</br>
+<br>Great-uncle	Great-aunt\n</br>
+<br>Step-brother	Step-sister\n</br>
+<br>Peacock	Peahen\n</br>
+        <br>\n</br>
+<br><b>Rule 8:</b>\n</br>
+<br>প্রাকৃতিক কিছু সত্ত্বাকে শক্তির প্রতীক হিসেবে বিবেচনা করে তাদেরকে masculine হিসেবে গণ্য করা হয়।\n</br>
+        <br>\n</br>
+<br>Some natural entities are considered as masculine as being signs of power. Such as thunder, summer, death, sun, etc.\n</br>
+        <br>\n</br>
+<br>আবার প্রাকৃতিক কিছু সত্ত্বাকে সৌন্দর্য্য বা কোমলতার প্রতীক হিসেবে বিবেচনা করে feminine হিসেবে গণ্য করা হয়।\n</br>
+        <br>\n</br>
+<br>Again some natural entities are considered as feminine as being signs of beauty or mildness. Such as night, moon, hope, peace, etc.\n</br>
+        <br>\n</br>
+<br>জাহাজ, দেশ, রেলগাড়ী প্রভৃতিকে সবসময় feminine হিসেবে গণ্য করা হয়।\n</br>
+        <br>\n</br>
+<br>Ship, country, train, etc are always considered as feminine genders.\n</br>
+        <br>\n</br>
+<br>Such as We have some duty towards our country as we are blessed with her natural resources.\n</br>
+        <br>\n</br>
+<br><b>Rule 9:</b>\n</br>
+<br>কিছু noun সবসময় feminine হিসেবে গণ্য করা হয়।\n</br>
+        <br>\n</br>
+<br>Some nouns are always considered as feminine. Such as serin, shrew, virgin, nurse, etc.\n</br>
+        <br>\n</br>
+<br><b>Rule 10:</b>\n</br>
+<br>কিছু noun সবসময় masculine হিসেবে ব্যবহৃত হয়।\n</br>
+        <br>\n</br>
+<br>Some nouns are always used as masculine. Such as judge, person, chairman, captain, etc.\n</br>
+<br>\n</br>
+
+    </string>
+    <!--// end of the part of gender area-->
+    <string name="narration">
+<br>\n</br>
+<br>Narration: বক্তা যা বলে তাই উক্তি বা Narration\n</br>
+        <br>\n</br>
+<br>Narration এর প্রকারভেদ: দুই প্রকার যথা:\n</br>
+        <br>\n</br>
+<br>1. Direct Narration (প্রত্যক্ষ উক্তি)\n</br>
+<br>2. Indirect Narration (পরোক্ষ উক্তি)\n</br>
+        <br>\n</br>
+<br>Direct Narration: যখন কোনো ব্যাক্তি অন্যের ভাষাকে হুবহু বলেন বা প্রকাশ করে তখন তাকে Direct Narration বলে।\n</br>
+        <br>\n</br>
+<br>উদাহরন: Mamun said, “I will go home today”\n</br>
+        <br>\n</br>
+<br>Indirect Narration: যখন কোন ব্যক্তি অনের বাষাকে নিজের মত করে বলে বা প্রকাশ করে তখন তাকে Indirect Narration:  বলে।\n</br>
+        <br>\n</br>
+<br>উদাহরণ: Mamun said that he would go home that day.\n\n</br>
+<br>নিচের Sentence টি লক্ষ্য কর\n</br>
+<br>.	Maruf   Said to  me “I did it last night”\n</br>
+<br>-	এখানে  Maruf   হল Speaker\n</br>
+<br>-	Said to হল Reporting verb\n</br>
+<br>\n</br>
+<br>Narration এর কয়েকটি মৌলিক তথ্য নিচে দেয়া হল:\n</br>
+        <br>\n</br>
+<br>একটি Direct Narration এর প্রধান দুটি অংশ যথা- 1. Reporting Verb 2. Reported Speech\n</br>
+        <br>\n</br>
+<br>1.Reporting verb: যে verb টি ব্যবহার করে বক্তার বক্তব্য প্রকাশ করে তাকে Reporting verb বলে।\n</br>
+        <br>\n</br>
+<br>2.Reported speech: Inverted comma এর মধ্যে যে বাক্যটি থাকে তাকে Reported Speech বলে।\n</br>
+        <br>\n</br>
+<br>→এছাড়া মনে রাখতে হবে- Reporting verb এর আগে যে পদটি ব্যবহার করা হয় তা Reporting verb এর Subject ও Reporting verb এর পরে যদি কোন পদ থাকে, তাকে Reporting verb এর Object বলে।\n</br>
+        <br>\n</br>
+<br>উদাহরন: Nuzat said to Diba, “ I shall not go to school.”\n</br>
+        <br>\n</br>
+<br>যথা :-\n</br>
+<br>Direct Narration (প্রত্যক্ষ উক্তি)\n</br>
+        <br>\n</br>
+<br>Indirect Narration (পরোক্ষ উক্তি) ।\n</br>
+        <br>\n</br>
+<br>Direct Narration (প্রত্যক্ষ উক্তি) : বক্তা নিজের মুখ দিয়ে যা বলে তা হল Direct Narration বা প্রত্যক্ষ উক্তি ।\n</br>
+        <br>\n</br>
+<br>যেমন :-\n</br>
+<br>he says, "I am happy."\n</br>
+<br>She said, "I write a letter."\n</br>
+<br>He said, "I am reading."\n</br>
+<br>Tania said, "I am not wrong"\n</br>
+<br>Maha said, "I met Jesmine"\n</br>
+        <br>\n</br>
+<br>Indirect Narration (পরোক্ষ উক্তি) : বক্তার কথা যখন অন্য কেউ তার মত করে বলে, তখন তাকে Indirect Narration বা পরোক্ষ উক্তি বলে ।\n</br>
+        <br>\n</br>
+<br>যেমন :-\n</br>
+<br>He says that he is happy.\n</br>
+<br>She said that she wrote a letter.\n</br>
+        <br>\n</br>
+<br>Direct Speech থেকে Indirect Speech এ রুপান্তর করার নিয়ম:\n</br>
+        <br>\n</br>
+<br>1) Reporting Verb টি Present Tense অথবা Future Tense হলে Reported Speech এর Tense পরিবর্তন হবে না।\n</br>
+        <br>\n</br>
+<br>Direct: Bran says, “I am ill”\n</br>
+<br>Indirect: Bran says that he is ill.\n</br>
+<br>Reporting Verb Past Tense হলে Reported Speech অবশ্যই পরিবর্তির হবে।\n</br>
+        <br>\n</br>
+<br>Direct Narration To Indirect Narration\n</br>
+        <br>\n</br>
+<br>Simple Present Tense\n</br>
+<br>He said, “I want to help”.\n</br>
+<br>Simple Past Tense\n</br>
+<br>He said that he wanted to help.\n</br>
+        <br>\n</br>
+<br>Present Continuous Tense\n</br>
+
+<br>I said, “I am walking”.\n</br>
+        <br>\n</br>
+<br>Past Continuous Tense\n</br>
+<br>I said that I was walking.\n</br>
+        <br>\n</br>
+<br>Present Perfect Tense\n</br>
+<br>She said, “I have to do my homework”\n</br>
+        <br>\n</br>
+<br>Past Perfect Tense\n</br>
+<br>She said that she had to do her homework\n</br>
+        <br>\n</br>
+<br>Present Perfect Continuous Tense\n</br>
+<br>She said to me, “I have been waiting for you”.\n</br>
+        <br>\n</br>
+<br>Past Perfect Continuous Tense\n</br>
+<br>She said to me that she had been waiting for me.\n</br>
+        <br>\n</br>
+<br>Simple Past Tense\n</br>
+<br>He said, “I wanted to help”.\n</br>
+        <br>\n</br>
+<br>Past Perfect Tense\n</br>
+<br>He said that he had wanted to help.\n</br>
+        <br>\n</br>
+<br>Past Continuous Tense\n</br>
+<br>I said, “I was walking”\n</br>
+        <br>\n</br>
+<br>Past Perfect Continuous Tense\n</br>
+<br>I said that I had been walking.\n</br>
+        <br>\n</br>
+<br>Past Perfect Tense\n</br>
+<br>She said, “I had done my homework”\n</br>
+        <br>\n</br>
+<br>Past Perfect Tense (No Change)\n</br>
+<br>She said that she had done her homework.\n</br>
+        <br>\n</br>
+<br>Past Perfect Continuous Tense\n</br>
+<br>She said to me, “I had been waiting for you”,\n</br>
+        <br>\n</br>
+<br>Past Perfect Continuous Tense (*No Change)\n</br>
+<br>She said to me that she had been waiting for me\n</br>
+        <br>\n</br>
+<br>Future Tense\n</br>
+<br>She said to me, “I shall help you”\n</br>
+        <br>\n</br>
+<br>Future in Past Tense\n</br>
+<br>She said that she would help me.\n</br>
+        <br>\n</br>
+<br>3) Inverted Comma (“ ”) এর স্থলে সাধারণত that বসে।\n</br>
+<br>Direct: Hannah said, “I am happy”\n</br>
+        <br>\n</br>
+<br>Indirect: Hannah said that she was happy.\n</br>
+        <br>\n</br>
+<br>4) Reported speech এর অন্তর্গত 1st person সর্বদা Reporting verb এর subject এর person অনুযায়ী পরিবর্তিত হয়।\n</br>
+        <br>\n</br>
+<br>Direct: Harold said to me, “I have done my duty”.\n</br>
+        <br>\n</br>
+<br>Indirect: Harold said to me that he had done his duty.\n</br>
+        <br>\n</br>
+<br>5) Reported Speech এর ভেতর যদি Second person থাকে তবে তা Reporting verb এর Object অনুযায়ী পরিবর্তিত হয়।\n</br>
+        <br>\n</br>
+<br>Direct: Harold said to me, “You have done your duty”\n</br>
+        <br>\n</br>
+<br>Indirect: Harold said to me that I had done my duty.\n</br>
+        <br>\n</br>
+<br>Direct: Harold said to John, “You have done your duty”\n</br>
+        <br>\n</br>
+<br>Indirect: Harold said to John that he had done his duty.\n</br>
+        <br>\n</br>
+<br>6) Reported speech এর subject যদি 3rd person হয় তবে সেই subject অপরিবর্তিত থাকে।\n</br>
+<br>Direct: I said to you, “He has done his duty”\n</br>
+        <br>\n</br>
+<br>Indirect: I said to you that he had done his duty.\n</br>
+        <br>\n</br>
+<br>Direct Speech থেকে Indirect Speech এ পরিণত হওয়ার সময় কিছু কিছু শব্দ পরিবর্তিত হয় । নিচের ছকে এমন কয়েকটি শব্দ ও Indirect Speech এ এদের পরিবর্তিত রূপ দেওয়া হলোঃ\n</br>
+        <br>\n</br>
+<br>Table 1Header 1Header 2 Direct\n</br>
+        <br>\n</br>
+<br>Now change হয়ে Then বসে\n</br>
+        <br>\n</br>
+<br>Ago change হয়ে Before বসে\n</br>
+        <br>\n</br>
+<br>This change হয়ে That বসে\n</br>
+        <br>\n</br>
+<br>These change হয়ে Those বসে\n</br>
+        <br>\n</br>
+<br>Here change হয়ে There বসে\n</br>
+        <br>\n</br>
+<br>Come change হয়ে Go বসে\n</br>
+        <br>\n</br>
+<br>Yesterday change হয়ে The previous day,\n</br>
+        <br>\n</br>
+<br>Previous day change হয়ে Tomorrow বসে\n</br>
+        <br>\n</br>
+<br>The following day change হয়ে next day বসে\n</br>
+        <br>\n</br>
+<br>Today change হয়ে That day বসে\n</br>
+        <br>\n</br>
+<br>এই নিয়মগুলো  Assertive Sentence এর ক্ষেত্রে প্রযোজ্য। কিন্তু Assertive Sentence ছাড়াও আরও ৪ প্রকারের Sentence আছে। যদিও বাকি ৪ প্রকার Sentence এর Narration অনেকটা Assertive Sentence এর মত, তবে কিছুটা ব্যাতিক্রম আছে।\n</br>
+        <br>\n</br>
+<br>Interrogative Sentence\n</br>
+        <br>\n</br>
+        <br><b>** “Wh” word দিয়ে Sentence টি তৈরী হলে if/whether এর স্থলে “Wh” word টি বসবে।</b>\n</br>
+        <br>\n</br>
+<br>Example:\n</br>
+<br>Direct: He said to me, “Am I ill”?\n</br>
+<br>Indirect: He asked me if I was ill.\n</br>
+<br>Indirect: He asked when I would come.\n</br>
+<br>Direct: He said, “When will you come”?\n</br>
+        <br>\n</br>
+<br><b>Imperative Sentence\n</b></br>
+        <br>\n</br>
+<br>1) <b>Reporting verb </b>এর পরিবর্তে order/request/command/advice/forbid\n</br>
+        <br>\n</br>
+<br>2) <b>Inverted comma</b> (“ ”) এর স্থলে To বসবে।\n</br>
+        <br>\n</br>
+<br>3) <b>Don’t/Never</b> থাকলে তা উঠে যায় এবং “To” এর পরিবর্তে “Not” বসবে।\n</br>
+        <br>\n</br>
+<br>4)<b> Forbid</b> ব্যাবহার করলে “To” এর পূর্বে “Not” বসবে না।\n</br>
+        <br>\n</br>
+<br>Example:\n</br>
+<br>Direct: He said, “Kill the man”.\n</br>
+<br>Indirect: He ordered to kill the man.\n</br>
+<br>Direct: He said, “Do not kill the man”\n</br>
+<br>Indirect: He requested not to kill the man/He forbade to kill the man.\n</br>
+        <br>\n</br>
+<br><b>Imperative Sentence</b> এ অনেকসময় “Let” শব্দটি ব্যাবহার হয়। “Let” শব্দটি সাধারণত ২ টি অর্থ প্রকাশ করে।\n</br>
+        <br>\n</br>
+<br>নিচের “Direct speech” গুলোর সঠিক “Indirect Speech” বাছাই করো\n</br>
+        <br>\n</br>
+<br><b>Optative Sentence</b>\n</br>
+        <br>\n</br>
+<br><b>** Tense অনুযায়ী Reported verb এর পূর্বে may/might বসবে।</b>\n</br>
+        <br>\n</br>
+<br>Direct: He said, “May you be happy”\n</br>
+<br>Indirect: He wished that I might be happy.\n</br>
+<br>Indirect: He wished that their president might live long.\n</br>
+<br>Direct: He said, “Long live our President”\n</br>
+        <br>\n</br>
+<br><b>Exclamatory Sentence</b>\n</br>
+        <br>\n</br>
+<br>1) Reporting verb এর পরিবর্তে [exclaimed with joy/wonder/sorrow]বসবে।\n\n</br>
+<br>2) Inverted comma (“ ”) এর স্থলে That বসবে।\n\n</br>
+<br>3) What/How দ্বারা শুরু হলে Adjective এর পূর্বে “very” এবং Noun এর পূর্বে “great”বসবে\n\n</br>
+<br>4) Exclamatory Sentence রুপান্তরিত হয়ে Assertive Sentence এ পরিনত হবে।\n</br>
+        <br>\n</br>
+<br><b> Direct:</b> He said, “How fine the bird is!”\n</br>
+<br><b>Indirect:</b> He exclaimed with joy that the bird was very fine.\n</br>
+<br><b>Indirect:</b> He exclaimed with sorrow that I was a great fool.\n</br>
+<br><b>Direct:</b> He said, “What a fool you are!”\n</br>
+        <br>\n</br>
+<br>উপরের নিয়মগুলোর পাশাপাশি Narration এর আরও কিছু মজার ও ব্যাতিক্রম নিয়ম রয়েছে। এখন আমরা এমনই কয়েকটি নিয়ম সম্পর্কে আলোচনা করব।\n</br>
+        <br>\n</br>
+<br>মজার নিয়ম 1: Reported Speech এর ভেতর যদি কোন চিরন্তন সত্য বা Universal Truth বাক্য থাকে তবে তা অপরিবর্তিত থাকে।\n</br>
+        <br>\n</br>
+<br>Direct: Ned Stark said, “Man is Mortal”\n</br>
+        <br>\n</br>
+<br>Indirect: Ned Stark said that man is mortal.\n</br>
+    <br>\n</br>
+        <br>\n</br>
+    </string>
+  <!--  // end of the part of narration area-->
+
+    <string name="right_verb">
+        <br>\n</br>
+ <br>Important rules of right forms of verbs are described below:\n\n</br>
+ <br>1. Present Indefinite Tense এর subject যদি third person singular number হয় তাহলে verb এর শেষে s, es যোগ হবে। কিন্তু অন্য কোন tense এর ক্ষেত্রে হবে না।\n\n</br>
+ <br>He eats rice.\n</br>
+ <br>He plays football.\n\n</br>
+ <br>Present Indefinite Tense এর subject যদি plural number হয় তাহলে verb এর শেষে s/es যোগ হবে না।\n</br>
+ <br>They play football.\n</br>
+ <br>They eat rice.\n\n</br>
+ <br>2. Present Indefinite Tense এর subject, third person singular number হলেও সেটি যদি negative sentence হয় তাহলে does not ব্যবহৃত হবে। তখন verb এর শেষে s/es যোগ হবেনা।\n\n</br>
+ <br>He does not go to school.\n</br>
+ <br>Ashish does not eat rice.\n\n</br>
+ <br>3. Past tense or future tense হলে verb এর শেষে s/es যোগ হবে না। তখন সেই tense এর structure অনুযায়ী verb বসবে।\n\n</br>
+ <br>He went to school.\n</br>
+ <br>He will go to school.\n\n</br>
+ <br>4. Modal Auxiliary verb (যেমন: can, could, may, might, shall, should, will, would, ought to, need, dare, have to, must etc.) এর পরে verb এর present form বসে এবং verb এর সাথে কোন কিছু যোগ হয় না।\n\n</br>
+ <br>He can do the work.\n</br>
+ <br>I shall go to the school.\n</br>
+ <br>You must come home.\n</br>
+ <br>\n\n</br>
+ <br>5. বাক্যটি যদি universal truth (চিরন্তন সত্য) হয়, habitual fact (অভ্যাসগত কাজ) বোঝায় তাহলে present indefinite tense হবে।\n\n</br>
+ <br>The sun rises in the east.\n</br>
+ <br>Ice floats on water.\n\n</br>
+ <br>6. Sentence টি passive voice হলে এবং modal auxiliary verb (can, could, may, might, shall, should, will, would, ought to, need, dare, have to, must etc.) এর পরে be + past participle form of verb বসে।\n\n</br>
+ <br>It can be done by you.\n</br>
+ <br>All the fruits could be taken.\n\n</br>
+ <br>7. Had, rather, let, would better, had better, need not, do not, does not, did not, did never, ইত্যাদি এর পর present form of verb বসে।\n\n</br>
+ <br>I let them use my shoes.\n</br>
+ <br>I had better go to the market by this time.\n</br>
+ <br>I need not do the work.\n\n</br>
+ <br>8. বাক্যে have/has থাকলে সেটি present perfect tense হবে।\n\n</br>
+ <br>He has done the work.\n</br>
+ <br>They have eaten rice.\n\n</br>
+ <br>9. Sentence এ yet, just, just now, recently, already, lately, ever ইত্যাদি থাকলে present perfect tense হবে।\n\n</br>
+ <br>He has taken his lunch just now.\n</br>
+ <br>They have already come home.\n</br>
+ <br>10. Sentence এ yesterday, ago, long ago, last year, last week, last month, that day, day before, ইত্যাদি থাকলে past indefinite tense হবে।\n\n</br>
+ <br>He came home\n</br>
+ <br>I went to Coxs Bazar last month.\n</br>
+ <br>A long time ago, there lived a poor farmer.\n\n</br>
+ <br>11. To এর পরে সবসময় verb এর present form বসে।\n\n</br>
+ <br>You need to do the work in time.\n</br>
+ <br>He went to the market to buy a shirt.\n\n</br>
+ <br>12. Since বা for এর পর সময়ের উল্লেখ থাকলে সেটি present perfect continuous tense হবে।\n\n</br>
+ <br>He has been doing the work since the morning.\n</br>
+ <br>It has been raining for two hours.\n\n</br>
+ <br>13. If দ্বারা যুক্ত clause টি যদি present indefinite tense হয় তাহলে পরের clause টি future indefinite tense হবে।\n\n</br>
+ <br>If he comes, I’ll go.\n</br>
+ <br>If you work hard, you’ll shine in life.\n\n</br>
+
+ <br>14. With a view to/look forward to এর পর verb এর সাথে ing যোগ হবে।\n\n</br>
+ <br>I’m looking forward to getting a job.\n</br>
+ <br>I went shopping with a view to buying a shirt.\n\n</br>
+ <br>15. By এর পর verb এর সাথে ing যোগ হবে।\n\n</br>
+ <br>She expressed her feelings by crying.\n</br>
+ <br>By digging the land, she planted trees.\n\n</br>
+ <br>16. For, of, in, without, with, before, after ইত্যাদি preposition এর পরে verb এর সাথে ing যোগ হয়।\n\n</br>
+ <br>I’ve never been tired of going there.\n</br>
+ <br>She can’t go without waiting for me.\n</br>
+ <br>17. Mind, would you mind, past, worth, could not help, cannot help এর পরে verb এর সাথে ing যোগ হয়।\n\n</br>
+ <br>Would you mind giving me the book?\n</br>
+ <br>He cannot help doing the assignment.\n</br>
+ <br>18. Sentence এর শুরুতে যদি would that থাকে তাহলে subject এর পর could বসে এবং এরপর verb এর present form বসে।\n\n</br>
+ <br>Would that I could be a writer like Humayun Ahmed.\n</br>
+ <br>Would that I could buy a Toyota car.\n</br>
+ <br>19. To be/having/got থাকলে verb এর past participle form হয়।\n\n</br>
+ <br>The assignment is to be completed immediately.\n</br>
+ <br>The thief ran away having seen the police.\n</br>
+ <br>I got the certificates sent by the Headmaster.\n</br>
+ <br>20. ব্র্যাকেটে (be) থাকলে person, number এবং tense অনুযায়ী am/is/are/was/were/been হবে।\n\n</br>
+ <br>It (be) two years ago.\n</br>
+ <br>It was two years ago.\n</br>
+ <br>\n</br>
+ <br>21. বর্তমান কালে চলছে এমন কোন কাজ বোঝালে present continuous tense হয়। (এসব ক্ষেত্রে সাধারণত at present/now/at the moment ইত্যাদি adverb ব্যবহৃত হয়।)\n\n</br>
+ <br>He is watching the Television at this moment.\n</br>
+ <br>They are playing football.\n</br>
+ <br>Now, they are doing their assignment.\n\n</br>
+ <br>22. If + Present Indefinite + Future Indefinite (if যুক্ত clause টি present indefinite tense হলে পরের clause টি হবে future indefinite)\n\n</br>
+ <br>If you come, I’ll go.\n</br>
+ <br>If you drink milk, you will be healthy.\n\n</br>
+ <br>23. যদি had/if যুক্ত clause টি past indefinite tense হয় তাহলে পরের clause টি তে subject এর পর would/could/might বসে এবং verb এর present form হয়।\n\n</br>
+ <br>If he came, I would go to the market.\n</br>
+ <br>If I were rich enough, I would help the poor.\n</br>
+ <br>যদি had/if যুক্ত clause টি past perfect tense হয় তাহলে পরের clause টি তে subject এর পর would have/could have/might have বসে এবং verb এর past participle form হয়।\n</br>
+ <br>If he had come, I would have gone to the market.\n</br>
+ <br>If you had walked fast, you could have reached the station.\n\n</br>
+
+ <br>24. Wish/fancy/it is time/it is high time ইত্যাদি থাকলে verb এর past tense হবে।\n\n</br>
+ <br>I wish I won the first prize.\n</br>
+ <br>It is high time you changed your bad habits.\n</br>
+ <br>I fancy I flew in the sky.\n</br>
+ <br>25. As if/as though থাকলে were বসে।\n\n</br>
+ <br>He speaks as if he were the leader.\n</br>
+ <br>He acts as though he were a hero.\n</br>
+ <br>26. Each, every, everyone, any, anyone, many a, everybody, everything, anybody, nobody, no one, nothing, anything, someone, something, one of, either, neither ইত্যাদি থাকলে verb এর singular number ব্যবহৃত হয়।\n\n</br>
+ <br>Each of the students was present.\n</br>
+ <br>Every father dedicates his life to his children.\n</br>
+ <br>One of the students was very talented.\n</br>
+ <br>Neither of the two brothers was present in the class.\n\n</br>
+ <br>27. While এর পর verb থাকলে সেটির সাথে ing যোগ হয়। কিন্তু while এর পর subject থাকলে এর অংশটি past continuous tense হয়।\n</br>
+ <br>While walking through the zoo, I saw a\n</br>
+ <br>While it was raining, I was watching a movie.\n\n</br>
+ <br>28. অনেক সময় একই স্থান, দৈর্ঘ্য বা পরিমাপ বোঝালে subject দেখতে plural মনে হলেও verb টি singular form হয়।\n\n</br>
+ <br>Twenty miles was a long way.\n</br>
+ <br>Two hundred miles is not a long distance in this modern era.\n\n</br>
+ <br>29. Main clause এর verb টি past tense হলে ও পরের অংশে next day, next week, next month, next year ইত্যাদি উল্লেখ থাকলে subject এর পরে should/would বসে।\n\n</br>
+ <br>He told that he would go home the next week.\n</br>
+ <br>She said that she would buy land next year.\n\n</br>
+ <br>30. After এর পরের এবং before এর আগের clause টি past perfect tense হবে এবং অন্য clause টি past indefinite tense হবে।\n\n</br>
+ <br>The train had left the station before we reached.\n</br>
+ <br>The doctor came after the patient had died.\n\n</br>
+ <br>31. Passive voice এর সময় tense ও person অনুযায়ী auxiliary verb ও verb এর past participle form বসে।\n\n</br>
+ <br>English is spoken all over the world.\n</br>
+ <br>We are taught English by\n\n</br>
+ <br>32. ব্যতিক্রমগুলো ছাড়া Principle clause এর verb যদি past tense হয় তাহলে subordinate clause এর verb ও past tense হবে এবং একটি present tense হলে অন্যটিও present tense হবে।\n\n</br>
+ <br>He was so ill that he would not go to the school.\n</br>
+ <br>They understood that he would not come.\n</br>
+     <br>\n</br>
+     <br>\n</br>
+    </string>
+ <!--   // end of the part of right_verb area-->
+
+
+    <string name="vocabulary">
+        <br>\n</br>
+<br>1: Fortuitous -আকস্মিক\n</br>
+<br>2: Inherent – স্বাভাবিক\n</br>
+<br>3: Legible -সহজপাঠ্য\n</br>
+<br>4: Indelible -অমোচোনীয়\n</br>
+<br>5: Endurable -সহনীয়/টেকসই\n</br>
+<br>6: gregarious -মিশুক /সামাজিক\n</br>
+<br>7: Introverted -অন্তর্মুখী ব্যক্তি \n</br>
+<br>8: Alleviate -উপশম করা\n</br>
+<br>9: Aggravate -অধিক গুরুতর\n</br>
+<br>10: Elevate -উত্তোলন করা,উন্নীত করা\n</br>
+<br>11: Desultory -নিয়মশৃংখলাহীন\n</br>
+<br>12: Methodical -সুশৃংখল\n</br>
+<br>13: Integral -অপরিহার্য অংশ\n</br>
+<br>14: Dissipate – দূর করা/অপচয় করা\n</br>
+<br>15: Exempt -রেহাই /অব্যহতি দেয়া\n</br>
+<br>17: Obliged -বাধিত বা ঋণী হয়েছে এমন\n</br>
+<br>18: Steadfast -অবিচলিত\n</br>
+<br>19: Valiant -সাহসী\n</br>
+<br>20: Repute -সুখ্যাতি\n</br>
+<br>21: Susceptible -স্পর্শকাতর\n</br>
+<br>22: opaque- অস্বচ্ছ\n</br>
+<br>24: Tepid -অল্প গরম বা কুসুম গরম\n</br>
+<br>25: Seething -ফুটে উপচে পড়া এমন\n</br>
+<br>26: Intimate -অন্তরঙ্গ\n</br>
+<br>27: Turbid – ঘোলাটে\n</br>
+<br>28: Swollen – ফোলা বা ফুলে যাওয়া\n</br>
+<br>29: Accretion -সংযোজনের মাধ্যমেবৃদ্ধি\n</br>
+<br>30: Procession : মিছিল বা শোভাযাত্রা\n</br>
+<br>31: Applaud -প্রশংসা\n</br>
+<br>32: Evasion -এড়িয়ে যাওয়া\n</br>
+<br>33: Transmit -প্রেরণ বা হস্তান্তর করা\n</br>
+<br>34: Obscure -অন্ধকার\n</br>
+<br>35: Withhold -পেছনে টেনে রাখা বা আটকিয়ে রাখা\n</br>
+<br>36: Generous -উদার\n</br>
+<br>37: Craven -কাপুরুষ\n</br>
+<br>38: Ulterior – গোপন বা অপ্রকাশিত\n</br>
+<br>39: Stated -প্রকাশিত হওয়া\n</br>
+<br>40: Rampage -উত্তেজিত অবস্থা\n</br>
+<br>41: Strident-কর্কশ\n</br>
+<br>42: Euphonious -সুমধুর\n</br>
+<br>43: Laconic -স্বল্পভাষী\n</br>
+<br>44: Verbose -বাকসর্বস্ব\n</br>
+<br>45: Wicked -দুশ্চরিত্র\n</br>
+<br>46: Bureaucrat -সরকারী কর্মকর্তা\n</br>
+<br>47: Reinstate -পুনর্বহাল করা\n</br>
+<br>48: Indict -অভিযুক্ত করা\n</br>
+<br>49: Scam -জালিয়াতি করা\n</br>
+<br>50: Extempore -পূর্বপ্রস্তুতি ছাড়া কোন বক্তব্য দেয়া\n\n</br>
+<br>51: Elocution – বাচনভঙ্গি\n</br>
+<br>52: Cupid -ধনসম্পত্তির জন্য লোভাতুর\n</br>
+<br>53: Sneer – বিদ্রুপ করা\n</br>
+<br>54: Cynic – যে সর্বদা অপরের ভূল ধরে\n</br>
+<br>55: Tipped – একপাশ বা প্রান্তে উঠানো\n</br>
+<br>56: Sparkle -জ্বলজ্বল করা\n</br>
+<br>57: Lethargic -অলস\n</br>
+<br>58: Distasteful-অপছন্দনীয়\n</br>
+<br>59: Fragrance -সুগন্ধী\n</br>
+<br>60: Restless-অস্থির\n</br>
+<br>61: Crone – বিগত যৌবনা (ঘৃণা অর্থে)\n</br>
+<br>62: Kleptomania -চৌর্য উন্মাদ\n</br>
+<br>63: Anemometer- বাতাসের বেগ নির্ণায়ক যন্ত্র\n</br>
+<br>64: Jaunt : লঘু প্রমোদ ভ্রমণ\n</br>
+<br>65: voyage :সমুদ্র যাত্রা\n</br>
+<br>66: Philatelist -ডাকটিকেট সংগ্রহকারী\n</br>
+<br>67: Vendor -বিক্রেতা\n</br>
+<br>68: Philanthropist -মানবহিতৈষী ব্যক্তি\n</br>
+<br>69: Misanthrope -মানববিদ্বেষ\n</br>
+<br>70: Highbrow -বড়াইকারী\n</br>
+<br>71: Aristocrat -অভিজাত\n</br>
+<br>72: Expand -আয়তনে বৃদ্ধি করা\n</br>
+<br>73: Proliferate -সংখ্যায় বৃদ্ধি পাওয়া\n</br>
+<br>74: Deflect -ঘুরে যাওয়া\n</br>
+<br>75: Cynical -নৈরাশ্যবাদী\n</br>
+<br>76:Traitor -বিশ্বাসঘাতক\n</br>
+<br>77: Unequivocal -সুস্পষ্ট\n</br>
+<br>78: Gloss -উজ্জ্বল তল\n</br>
+<br>79: Barrier -প্রতিবন্ধক\n</br>
+<br>80: Agile -তৎপর\n</br>
+<br>81: Frisky -চঞ্চল\n</br>
+<br>82: Parallelism -সমান্তরাল\n</br>
+<br>83: Obliquity -বক্রতা\n</br>
+<br>84: Divergence -কেন্দ্রচ্যুতি\n</br>
+<br>85: Disparity -বৈসাদৃশ্য\n</br>
+<br>86: Contrast -বৈপরিত্য\n</br>
+<br>87: Debonair -সদা হাসি খুশি\n</br>
+<br>88: Balmy -স্নিগ্ধ\n</br>
+<br>88: Awkward -বেমানান\n</br>
+<br>89: Windy -ঝড়ো\n</br>
+<br>90: Landscape -প্রাকৃতিক ভূ -দৃশ্য\n</br>
+<br>91: Intellectual -বুদ্বিবৃত্তিক সংস্কৃতিবান\n</br>
+<br>92: Lexicographer -অভিধান রচয়িতা\n</br>
+<br>93: Venerate -সম্মান করা\n</br>
+<br>94: Severe -প্রকট\n</br>
+<br>95: Condemn -তিরস্কার\n</br>
+<br>96: Inculcate -চিত্তনিষ্ঠ\n</br>
+<br>97: Ascend -আরোহণ করা\n</br>
+<br>98: Stern – কঠোর\n</br>
+<br>99: Bend -বাঁকানো\n</br>
+<br>100: Eulogistic -উচ্চ প্রশংসাযোগ্য\n\n</br>
+<br>101: Deleterious -ক্ষতিকর/অনিষ্টকর\n</br>
+<br>102: Impulsive -আবেগপ্রবণ\n</br>
+<br>103: Salubrious -স্বাস্থ্যকর\n</br>
+<br>104: Inclusive -অন্তর্ভুক্তিমূলক\n</br>
+<br>105: Usurp -জবরদখল\n</br>
+<br>106: Discordant – শ্রুতিকটু\n</br>
+<br>107: Harsh -কর্কশ\n</br>
+<br>108: Insouciance -ঔদাসীন\n</br>্য
+<br>109:Composure -ধৈর্য্য\n</br>
+<br>110: Slumber -তন্দ্রা\n</br>
+<br>111: Pretentious -দাম্ভিক\n</br>
+<br>112: Egoistic -স্বার্থপর\n</br>
+<br>113: Grandiose -জমকালো/সুবিশাল\n</br>
+<br>114: Indolent/Lethargic -অলস\n</br>
+<br>115: Disinterested -নির্লিপ্ত\n</br>
+<br>116: Halcyon -শান্ত/শান্তিপূর্ণ\n</br>
+<br>117: Motionless -নিশ্চল\n</br>
+<br>118: Casual -আকস্মিক\n</br>
+<br>119: Harmonious -সুরেলা\n</br>
+<br>120: Venerate -শ্রদ্ধা করা\n</br>
+<br>121: Defame -মানহানি\n</br>
+<br>122: Accuse -অভিযুক্ত\n</br>
+<br>123: Obdurate -অনমনীয়\n</br>
+<br>124: Contrary -বিপরীত\n</br>
+<br>125: Stubborn -একগুঁয়ে\n</br>
+<br>126: Callous -অনুভূতিহীন\n</br>
+<br>127: Pathetic -করুন/মর্মস্পর্শী\n</br>
+<br>128: Rise rapidly -দ্রুততার সাথে বৃদ্ধি\n</br>
+<br>129: Modest -বিনয়ী\n</br>
+<br>130: Rightfully -বৈধ ভাবে\n</br>
+<br>131: Abuse -অপব্যবহার\n</br>
+<br>132: Pithy – সংক্ষিপ্ত\n</br>
+<br>133: Illusive -মায়াময়\n</br>
+<br>134: Luminous -উজ্জ্বল\n</br>
+<br>135: Enigmatic/Puzzling -বিভ্রান্তিকর\n</br>
+<br>136: Notion -ধারণা\n</br>
+<br>137: Congenial -বন্ধুভাবাপন্ন\n</br>
+<br>138: Intrinsic -স্বকীয়/জন্মগত\n</br>
+<br>139: Reprimand /Rebuke -তিরস্কার\n</br>
+<br>140: Humble -বিনীত\n</br>
+<br>141: Obsolete -পুরাতন/অপ্রচলিত\n</br>
+<br>142: Legitimate -আইনসম্মত\n</br>
+<br>143: Fragile – দুর্বল\n</br>
+<br>144: Bona-fide – খাঁটি\n</br>
+<br>145: Spurious -ভেজাল\n</br>
+<br>146: Bondage -বন্দিদশা\n</br>
+<br>147: Debacle -ধ্বংস হওয়া/পতন হয়ে যাওয়া\n</br>
+<br>148: Occupy -দখলে রাখা\n</br>
+<br>149: Amalgamate -একসাথে করা\n</br>
+<br>150: Materialize -দৃষ্টি গোচর হওয়া/বাস্তবে পরিণত হওয়া\n\n</br>
+<br>151: Generate -উৎপাদন করা\n</br>
+<br>152: Equip -প্রস্তুত করা /সজ্জিত করা\n</br>
+<br>153: Mercury -পারদ/বুধগ্রহ/দেবরাজের দেবতা\n</br>
+<br>154: Humidity -আদ্রতা\n</br>
+<br>155: Entrepreneur -উদ্যোক্তা\n</br>
+<br>156: Conflict -সংগ্রাম করা\n</br>
+<br>157: Communism -সাম্যবাদ\n</br>
+<br>158: Capitalist -পূঁজিতান্ত্রিক\n</br>
+<br>159: Conduit -পয়ঃপ্রণালী\n</br>
+<br>160: Scissors -কাঁচি\n</br>
+<br>161: Wagon -মালবাহী গাড়ি\n</br>
+<br>162: Saw -করাত\n</br>
+<br>163: Exclusion -বর্জন\n</br>
+<br>164: Condone -উপেক্ষা করা\n</br>
+<br>165: Isolation -বিচ্ছিন্নতা\n</br>
+<br>166: Discover -আবিষ্কার করা\n</br>
+<br>167: Suppress -চেপে রাখা\n</br>
+<br>168: Redirect -পুননির্দেশ\n</br>
+<br>169: Belittle -ছোট করা\n</br>
+<br>170: Exhort -উত্সাহিত করা/প্রণোদিত করা/আহ্বান করা\n</br>
+<br>171: Magnanimous : দয়ালু\n</br>
+<br>172: Genesis -শুরু\n</br>
+<br>173: Adapt -খাপ খাওয়ানো\n</br>
+<br>174: Innovate -আবিষ্কার করা\n</br>
+<br>175: Ponder -গভীরভাবে চিন্তা করা\n</br>
+<br>176: Vacillate -দ্বিধা করা\n</br>
+<br>177: Revert -ফিরে আসা\n</br>
+<br>178: Upheld -উপরের দিকে নেওয়া\n</br>
+<br>179: Resist -প্রতিরোধ করা\n</br>
+<br>180: Publicize -প্রচার করা\n</br>
+<br>181: Subvert -ক্ষমতা ধ্বংস করা\n</br>
+<br>182: Refinery -পরিশোধনাগার\n</br>
+<br>183: Ore -আকরিক\n</br>
+<br>184: Merchandise -মালপত্\n</br>র
+<br>185: Mine -খনি\n</br>
+<br>186: Warehouse -মালপত্র রাখার স্থান\n</br>
+<br>187: Lumber -খুব কষ্ট করে হাঁটা\n</br>
+<br>188: Grain -শস্য\n</br>
+<br>189: Gargantuan -খুব বড়\n</br>
+<br>190: Tiny in size -খুব ছোট\n</br>
+<br>191: Irritate -বিরক্ত করা\n</br>
+<br>192: Amplification -ভাবসম্প্রসারণ করা\n</br>
+<br>193: Loaf -পাউরুটি\n</br>
+<br>194: Stale -টাটকা নয় (বাসি )\n</br>
+<br>195:Butter -মাখন\n</br>
+<br>196: Forecast -পূর্বাভাস\n</br>
+<br>197: Override -অগ্রাহ্য করা\n</br>
+<br>198: Diagnosis -রোগ নির্ণয়\n</br>
+<br>199: Estimate -হিসাব\n</br>
+<br>200: Appraisal -কোন কিছুর মূল্য পরিমাপ করা.\n\n</br>
+<br>201: Trivial – নগণ্য /তুচ্ছ\n</br>
+<br>202: Fade -বিবর্ণ হওয়া\n</br>
+<br>203: Inscribe -অন্তর্লিখিত\n</br>
+<br>204: Epitaph -সমাধিস্তম্ভ লিপি\n</br>
+<br>205: Epithet – ডাকনাম/উপাধি\n</br>
+<br>206: Epitome – সংক্ষিপ্ত\n</br>
+<br>207: Scenic -দৃশ্যময়\n</br>
+<br>208: Melancholy -দুঃখ\n</br>
+<br>209: Barren -অনুর্বর\n</br>
+<br>210: Skepticism – সংশয়বাদ\n</br>
+<br>211: Audacity -দুঃসাহস\n</br>
+<br>212: Plausibility -বিশ্বাসযোগ্যতা\n</br>
+<br>213: Conviction-দৃঢ় বিশ্বাস\n</br>
+<br>214: Harmony -সাদৃশ্য\n</br>
+<br>215: Glow -খুশিতে ঝলমল করা\n</br>
+<br>216: Mild -শান্ত\n</br>
+<br>217: Untamed -অশান্ত/বন্\n</br>য
+<br>218: Feeble -দুর্বল\n</br>
+<br>219: Unruly -অবাধ্য\n</br>
+<br>220: Compliance -সম্মতি/প্রতিপালন\n</br>
+<br>221: Adverse -প্রতিকূল\n</br>
+<br>222: In deep water -বিপদে থাকা\n</br>
+<br>223: Hostile -প্রতিকূল/বিরোধী\n</br>
+<br>224: Brevity – সংক্ষিপ্ত ভাবে\n</br>
+<br>225: Wallet -মানি ব্যাগ\n</br>
+<br>226: Tomb -কবর\n</br>
+<br>227: Flexible -নমনীয়\n</br>
+<br>228: Obese -মোটা /স্থূলকায়\n</br>
+<br>229: Tough/Rigid -শক্ত\n</br>
+<br>230: Breakable -ভঙ্গুর\n</br>
+<br>231: Complacency -আত্মতৃপ্তি\n</br>
+<br>232: Conger -সামুদ্রিক বানমাছ\n</br>
+<br>233: Dispatch -কারো উদ্দেশে কোন কিছু পাঠানো\n</br>
+<br>234: Postulate -স্বীকার্য\n</br>
+<br>235: Invisible -অদৃশ্য\n</br>
+<br>236: Inevitable -অনিবার্য\n</br>
+<br>237: Inaudible -যা শোনা যায় না\n</br>
+<br>238: Irresistible -অপ্রতিরোধ্য\n</br>
+<br>239: Expose-প্রকাশ করা\n</br>
+<br>240: Inadvertent/Unintended -অনিচ্ছাকৃত\n</br>
+<br>241: Intentional /Deliberately -ইচ্ছাকৃতভাবে\n</br>
+<br>242: Accidental -আকষ্মিক\n</br>
+<br>243: Gratifying -তৃপ্তিদায়ক\n</br>
+<br>244: Gracious -সদয়\n</br>
+<br>245: Splendid/Glorious -জমকালো\n</br>
+<br>246: Disgraceful -বাজে/অসুন্দর\n</br>
+<br>247: Conceal -গোপন করা\n</br>
+<br>248: Conciliate -শান্ত করা\n</br>
+<br>249: Benevolent -হিতৈষী\n</br>
+<br>250: Curious -অদ্ভুত\n</br>
+<br>251: Flashy -লোক দেখানো\n</br>
+<br>252: Velocity -বেগ\n</br>
+<br>253: Doctrine -মতবাদ\n</br>
+<br>254: Expound -ব্যাখ্যা করা\n</br>
+<br>254: Confound -বিভ্রান্ত করা\n</br>
+<br>255: Perplex -জটিল করা\n</br>
+<br>256: Multiple -বহুবিধ\n</br>
+<br>257: Composite -যৌগিক\n</br>
+<br>258: Barter -বিনিময় করা\n</br>
+<br>259: Transient -অস্থায়ী\n</br>
+<br>260: Relevant -প্রাসঙ্গিক\n</br>
+<br>261: Enlarge -দীর্ঘায়িত করা\n</br>
+<br>262: Shrink -সংকুচিত করা\n</br>
+<br>263: Slip -পলায়ন/এড়িয়ে যাওয়া\n</br>
+<br>264: Pact -চুক্তি\n</br>
+<br>265: Expand -বিস্তৃত করা\n</br>
+<br>266: Repercussion -প্রতিক্রিয়া\n</br>
+<br>267: Aftermath -পরিণাম /ফলাফল\n</br>
+<br>268: Influence -প্রভাব\n</br>
+<br>269: Scatter -ছড়িয়ে যাওয়া\n</br>
+<br>270: Accumulate -একত্রিত করা বা জমানো\n</br>
+<br>271: Tentative -অনিশ্চিত/দোদুল্যমান\n</br>
+<br>272: Hyperbolic -অতিরঞ্জিত করে বলা\n</br>
+<br>273: Argumentative -তর্ক বিতর্ক\n</br>
+<br>274: Reasoning -যুক্তিতর্ক\n</br>
+<br>275: Astute -জ্ঞানী/বিচক্ষণ\n</br>
+<br>276: Cogent -প্রবল/অকাট্য\n</br>
+<br>277: Deceived -প্রতারিত হওয়া বা করা\n</br>
+<br>278: Coherent -সামঞ্জস্যপূর্ণ\n</br>
+<br>279: Ailment -ছোট খাটো অসুস্থতা\n</br>
+<br>280: Indigent -অত্যন্ত গরীব\n</br>
+<br>281: Assiduous -অধ্যবসায়ী\n</br>
+<br>282: Harbinger -অগ্রদূত\n</br>
+<br>283: Autocrat -একনায়ক/স্বৈরশাসক\n</br>
+<br>284: Inauspicious -অশুভ /অকল্যাণসূচক\n</br>
+<br>285: Untenable -টিকিয়ে রাখা যায়না এমন\n</br>
+<br>286: Defensible -টিকানো বা টিকিয়ে রাখা\n</br>
+<br>287: Hypothetical -অনুমান কৃত /প্রকল্পিত\n</br>
+<br>288: Precise -সংক্ষিপ্ত করা\n</br>
+<br>289: Recidivist -অপরাধপ্রবণ\n</br>
+<br>290: Depart -স্থান ত্যাগ করা\n</br>
+<br>291: Recuperative-আরোগ্য হয় এমন/পুনরুদ্ধার হয় এমন\n</br>
+<br>292: Evasive/Elusive -এড়িয়ে যায় এমন বা ধরা যায়না এমন\n</br>
+<br>293: Pensive -চিন্তানিমগ্ন\n</br>
+<br>294: Plethora -আধিক্য বা প্রচুর পরিমাণ\n</br>
+<br>295: Despair -হতাশ\n</br>
+<br>296: Aversion -অনিহা\n</br>
+<br>297: Scarcity -স্বল্প\n</br>
+<br>298: Put up with -সহ্য করা\n</br>
+<br>299: Overt -প্রকাশ্য\n</br>
+<br>300: Erratic -ত্রুটিপূর্ণ/উল্টাপাল্টা\n\n</br>
+<br>301: Appall -আতঙ্কিত করা\n</br>
+<br>302: Dearth -অভাব\n</br>
+<br>303: Abundance -আধিক্য\n</br>
+<br>304: Superannuate -কাজ বা বয়স উত্তীর্ন\n</br>
+<br>305: Innate -সহজাত\n</br>
+<br>306: Solace -সান্ত্বনা\n</br>
+<br>307: Engross -সবসময় কাজে লেগে থাকা\n</br>
+<br>308: Garrulous -বাচাল\n</br>
+<br>309: Punctilious -খুঁটিনাটি ব্যাপারে অতি সতর্ক\n</br>
+<br>310: Observant -দৃষ্টিশীল,মনোযোগী\n</br>
+<br>311: Buried -সমাহিত বা কবর দেয়া হয়েছে এমন\n</br>
+<br>312: Tender -কোমল ,পেশা ,প্রস্তাব\n</br>
+<br>313: Preamble -প্রস্তাবনা\n</br>
+<br>314: Commencement -শুরু\n</br>
+<br>315: Preface -প্রস্তাবনা\n</br>
+<br>316: Postscript -অতিরিক্ত বা সর্বশেষ তথ্য\n</br>
+<br>317: Escape -পালিয়ে যাওয়া\n</br>
+<br>318: Abscond -আত্মগোপন করা\n</br>
+<br>319: Eternal -চিরন্তন\n</br>
+<br>320: Exult -অত্যন্ত আনন্দিত\n</br>
+<br>321: Jubilate -আনন্দ করা\n</br>
+<br>322: Imprudent –অবিবেচক\n</br>
+<br>323: Sagacity -প্রখর জ্ঞান\n</br>
+<br>324: Reverential -শ্রদ্ধামিশ্রিত\n</br>
+<br>325: Redundant-বাড়তি, অনাবশ্যক\n</br>
+<br>326: Incautious -অবিবেচক\n</br>
+<br>327: Synopsis -সারাংশ\n</br>
+<br>328: Encumber -পথরোধ করা\n</br>
+<br>329: Recapitulate -আলোচনা করা\n</br>
+<br>330: Gourmet -পান ও ভোজন রসিক ব্যক্তি\n</br>
+<br>331: Omnipotent -সর্বশক্তিমান (আল্লাহ )\n</br>
+<br>332: Asylum -আশ্রয় ,নিরপত্তা\n</br>
+<br>333: Sanatorium -স্বাস্থ্যনিবাস\n</br>
+<br>334: Impostor- ভন্ড\n</br>
+<br>335: Mountebank - ঠকানোর চেষ্টা করে\n</br>
+<br>336: Acrimonious -তিক্ত\n</br>
+<br>337: Severe -মারাত্মক\n</br>
+<br>338: Cursive -টানা টানা হাতের লেখা \n</br>
+<br>339: Anomalous -ব্যতিক্রম\n</br>
+<br>340: Vicious -ঘৃণ্য\n</br>
+<br>341: Capacious -সুপ্রশস্ত\n</br>
+<br>342: Intractable -অবাধ্য\n</br>
+<br>343: Wayward -স্বেচ্ছাচারী\n</br>
+<br>344: Easygoing – বাধ্য\n</br>
+<br>345: Bleak -নিরানন্দ,মলিন\n</br>
+<br>346: Abstinent -সংযমী\n</br>
+<br>347: Segregate -পৃথক করা\n</br>
+<br>348: Abolish -বিলুপ্তকরা\n</br>
+<br>349: Darken -অন্ধকার করা\n</br>
+<br>350: Compile -একত্র করা\n</br>
+<br>351: Reclusive -সন্ন্যাসী\n</br>
+<br>352: Urban -শহুরে\n</br>
+<br>353: A bone to pick -রাগান্বিত হওয়া\n</br>
+<br>354: Knotty -ঝামেলাযুক্ত\n</br>
+<br>355: Errant -ভ্রমণরত\n</br>
+<br>356: Bucolic -গ্রাম্য\n</br>
+<br>357: Castigate -নিন্দা করা\n</br>
+<br>358: Hidebound -সংকীর্ণমনা\n</br>
+<br>359: Evaluate -মূল্যায়ন করা\n</br>
+<br>360: Corroborate -দৃঢ় করা\n</br>
+<br>361: Refute -যুক্তি/তর্ক খন্ডন করা\n</br>
+<br>362: Contradict -অস্বীকার করা\n</br>
+<br>363: Contravene -আইন বা রীতি লংঘন করা\n</br>
+<br>364: Profane -অপবিত্র করা\n</br>
+<br>365: Vulgarity -অশ্লীলতা\n</br>
+<br>366: Compensate -ক্ষতিপূরন দেয়া\n</br>
+<br>367: Deprecate -নিন্দা করা\n</br>
+<br>368: Enhance -বৃদ্ধি করা\n</br>
+<br>369: Bait- টোপ\n</br>
+<br>370: Disparage -কাউকে ছোট /তুচ্ছ করা\n</br>
+<br>371: Heckle -প্রশ্নবানে জর্জরিত করা\n</br>
+<br>372: Adequate -পর্যাপ্ত\n</br>
+<br>373: Muddle – বিহ্বলতা\n</br>
+<br>374: Abatement -কমানো\n</br>
+<br>375: Incapacitate -অযোগ্য করা\n</br>
+<br>376: Stout -শক্তিশালী,নির্ভীক\n</br>
+<br>377: Hook -ফাঁদ\n</br>
+<br>378: Crook -বাঁকা\n</br>
+<br>379: Biased-পক্ষপাতী\n</br>
+<br>380: Axle -অক্ষ\n</br>
+<br>381: Build in -অন্তর্গত\n</br>
+<br>382: leaning -ঝোঁক\n</br>
+<br>383: Yield -বশ্যতা স্বীকার করা\n</br>
+<br>384: Gloomy -অন্ধকারাচ্ছন্ন\n</br>
+<br>385: Provincial -সীমাবদ্ধ\n</br>
+<br>386: Cosmopolitan -সার্বজনীন\n</br>
+<br>387: Extol -প্রশংসা\n</br>
+<br>388: Monotonous -একঘেয়ে\n</br>
+<br>389: Rite -রীতিনীতি,প্রথা\n</br>
+<br>390: Writ- কোন বিষয় সম্পর্কে কোর্টের লিখিত অর্ডার\n</br>
+<br>391: Laid back -অলস\n</br>
+<br>392: Inflated -অত্যধিক\n</br>
+<br>393: Reasonable -যৌক্তিক\n</br>
+<br>394: Ingenuous -অকপট\n</br>
+<br>395: Sophisticated -কৃত্রিম\n</br>
+<br>396: Exorbitant -অতিরিক্ত\n</br>
+<br>397: Devious -আঁকাবাঁকা\n</br>
+<br>398: Cunning -দক্ষ\n</br>
+<br>399: Debacle -মহাবিপর্যয়\n</br>
+<br>400: Friction -বিরোধ\n\n</br>
+<br>401: Disputation /Argument -বিতর্ক\n</br>
+<br>402: Counterfeit-ভেজাল,কৃত্রিম\n</br>
+<br>403: Shaky -দুর্বল\n</br>
+<br>404: Expedite -অগ্রগতি ত্বরান্বিত করা\n</br>
+<br>405: Impede – ব্যাহত করা\n</br>
+<br>406: Torpor/Lassitude/Languor -অলস\n</br>
+<br>407: Apathetic/Lukewarm -উদাসীন\n</br>
+<br>408: Rush -দ্রুত ধাবন\n</br>
+<br>409: Hexagon -ষড়ভূজ\n</br>
+<br>410: Subtraction -বিয়োগ\n</br>
+<br>411: Fathom -গভীরতা নির্ণয় করা\n</br>
+<br>412: Truant -যে ব্যক্তি তার কর্মস্থল হতে পালায়\n</br>
+<br>413: Malingerer -যে ব্যক্তি কর্তব্য এড়ানোর জন্য অসুস্থতার ভান করে\n</br>
+<br>414: Hypocrite -ভন্ড\n</br>
+<br>415: Concubine -উপস্ত্রী\n</br>
+<br>416: Telepathy -অন্যের চিন্তার অনুভূতি দ্রুত বুঝে নেয়ার ক্ষমতা\n</br>
+<br>417: Elegy -শোকগাঁথা\n</br>
+<br>418: Utopia -কল্পরাজ্য\n</br>
+<br>419: Statesman -কূটনীতিজ্ঞ ব্যক্তি\n</br>
+<br>420: Demagogue -জননেতা\n</br>
+<br>421: Dictator -একনায়ক\n</br>
+<br>422: Martinet -নিয়মনিষ্ঠ\n</br>
+<br>423: Malign -ক্ষতিকর\n</br>
+<br>424: Meager/Scanty -স্বল্প\n</br>
+<br>425: proportionate -আনুপাতিক\n</br>
+<br>426: Ancillary -আনুষঙ্গিক\n</br>
+<br>427: Unstable -অস্থির\n</br>
+<br>428: Conventional -প্রচলিত\n</br>
+<br>429: Potty -তুচ্ছ\n</br>
+<br>430: Reparation -ক্ষতিপূরণ\n</br>
+<br>431: Decay -ক্ষয় হওয়া\n</br>
+<br>432: Transmission -ছড়ানো,প্রচার\n</br>
+<br>434: Frugal/ Parsimonious -মিতব্যয়ী\n</br>
+<br>435: Bigot -অন্ধ বিশ্বাসী\n</br>
+<br>436: Indispensable -অপরিহার্য\n</br>
+<br>437: Inconsiderate -অবিবেচক\n</br>
+<br>438: Hasty -দ্রুতগতি\n</br>
+<br>439: Conceited -আত্মভিমানী\n</br>
+<br>440: Wrath -রাগ\n</br>
+<br>441: Prompt -দ্রুত\n</br>
+<br>442: Divine -স্বর্গীয়\n</br>
+<br>443: Malign -ক্ষতিকর\n</br>
+<br>444: Meager/Scanty -স্বল্প\n</br>
+<br>445: proportionate -আনুপাতিক\n</br>
+<br>446: Hindrance/Barrier -বাঁধা\n</br>
+<br>447: Discontented -অসন্তুষ্ট,অতৃপ্ত\n</br>
+<br>448: Miserable -শোচনীয়\n</br>
+<br>449: Myopic -ক্ষীনদৃষ্টি/সংকীর্ণমনা\n</br>
+<br>450: Intolerant -অসহনীয়\n\n</br>
+<br>451: Affirm/Assert -দৃঢ়ভাবে কোন কিছু বলা\n</br>
+<br>452: Deny -দৃঢ়ভাবে কোন কিছু অস্বীকার করা\n</br>
+<br>453: Panic -ভয় পাওয়া\n</br>
+<br>454: Abandon/Desert -ছেড়ে যাওয়া\n</br>
+<br>455: Waive -মওকুফ করা\n</br>
+<br>456: Evenhanded -নিরপেক্ষ\n</br>
+<br>457: Enunciate -উচ্চারন করা\n</br>
+<br>458: Consolidation -ঐক্যবদ্ধ/একসাথে\n</br>
+<br>459: Instigation -উত্তেজনা\n</br>
+<br>460: Provocation -প্ররোচনা\n</br>
+<br>461: Painstaking/Persevering -পরিশ্রমী\n</br>
+<br>462: Stimulus/Impetus -আবেগ,প্রেরণা\n</br>
+<br>463: Revulsion/Abhorrence -প্রতিক্রিয়া\n</br>
+<br>464: Evanescent/Fleeting -ক্ষনস্থায়ী\n</br>
+<br>465: Limpid -স্পষ্ট466: Evident -স্পষ্ট\n</br>
+<br>467: Subtlety -অস্পষ্ট\n</br>
+<br>468: Prima facie -প্রথম দর্শনে\n</br>
+<br>469: Subterfuge /Trickery -প্রতারনা\n</br>
+<br>470: Simplicity -সরল\n</br>
+<br>471: Applause -সাধুবাদ\n</br>
+<br>472: Impinge -আঘাত হানা\n</br>
+<br>473: Facilitate -সহজতর\n</br>
+<br>474: Trespass -পাপ/সীমালঙ্গন\n</br>
+<br>475: Profligate -লম্পট\n</br>
+<br>476: Intermittent- অনিয়মিতভাবে\n</br>
+<br>477: Broker -দালাল\n</br>
+<br>478: Merchant prince -মহা ধনবান বণিক\n</br>
+<br>479: Persistent -নাছোড়বান্দা\n</br>
+<br>480: Destitute -দরিদ্র\n</br>
+<br>481: Teller -ব্যাংকের ক্যাশিয়ার\n</br>
+<br>482: Intense -তীব্র\n</br>
+<br>483: Abrasive -ঘর্ষণের মাধ্যমে তুলে ফেলা\n</br>
+<br>484: Attempts -চেষ্টা করা\n</br>
+<br>485: Screams -আর্তনাদ করা\n</br>
+<br>486: Admits -স্বীকার করা\n</br>
+<br>487: Lucrative -লাভজনক\n</br>
+<br>488: Ridiculous -হাস্যকর\n</br>
+<br>489: Continuation -ধারাবাহিকতা\n</br>
+<br>490: Offshore -সাগরমুখী\n</br>
+<br>491: Solemn -আনুষ্ঠানিক\n</br>
+<br>492: Wholesale -পাইকারী\n</br>
+<br>493: Retail -খুচরা\n</br>
+<br>494: Push sale -জোর করে বিক্রি করা\n</br>
+<br>495: Slothful -নিষ্ক্রিয়\n</br>
+<br>496: Quarrelsome -ঝগড়াটে\n</br>
+<br>497: Flat out -সোজা\n</br>
+<br>498: Backtrack -প্রত্যাখ্যান করা\n</br>
+<br>499: Curved -বক্ররেখা\n</br>
+<br>500:To drive off -পরিহার করা\n</br>
+        <br>\n</br>
+        <br>\n</br>
+</string>
+
+
+
+   <string name="Translation">
+ <br>\n</br>
+<br>Do you speak English?\n</br>
+<br>তুমি কি ইংলিশ এ কথা বলতে পার?\n</br>
+<br>\n</br>
+<br>I don’t speak English well\n</br>
+<br>আমি ইংরেজি ভাল কথা বলি না\n</br>
+<br>\n</br>
+
+<br>I don’t understand\n</br>
+<br>আমি বুঝতে পারছি না\n</br>
+<br>\n</br>
+<br>Please speak slowly\n</br>
+<br>ধীরে কথা বলুন\n</br>
+<br>\n</br>
+
+<br>Where is a hotel?\n</br>
+<br>হোটেল কোথায়?\n</br>
+<br>\n</br>
+
+<br>How much is it per night?\n</br>
+<br>এটা প্রতি রাতে কত?\n</br>
+<br>\n</br>
+       <br>I would like to book a room, please help me .\n</br>
+  <br>আমি একটি রুম বুক করতে চাই, দয়া করে আমাকে সাহায্য করুন.\n</br>
+  <br>\n</br>
+  <br>I have a reservation for 2 nights or weeks.\n</br>
+  <br>আমার 2 রাত অথবা সপ্তাহের জন্য একটি রিজার্ভেশন আছে.\n</br>
+  <br>\n</br>
+  <br>Do you have a double / single / family room?\n</br>
+  <br>আপনার কি একটি ডাবল/সিঙ্গেল/ফ্যামিলি রুম আছে?\n</br>
+         <br>\n</br>
+  <br>For you\n</br>
+  <br>তোমার জন্য।\n</br>
+  <br>\n</br>
+  <br>I knew it\n</br>
+  <br>আমি এটা জানতাম।\n</br>
+  <br>\n</br>
+  <br>Bright future\n</br>
+  <br>উজ্জ্বল ভবিষ্যৎ\n</br>
+  <br>\n</br>
+  <br>Cheer up \n</br>
+       <br> হাসিখুশি রাখ।\n</br>
+  <br>\n</br>
+  <br>Fact of thinking\n</br>
+  <br>চিন্তার বিষয়।\n</br>
+  <br>\n</br>
+  <br>Most of the time\n</br>
+  <br> অধিকাংশ সময়।\n</br>
+  <br>\n</br>
+  <br>Another problem \n</br>
+  <br>অন্য সমস্যা।\n</br>
+     <br> \n</br>
+<br>Is everything alright? \n</br>
+       <br>সবকিছু ঠিকঠাক আছে তো?\n</br>
+       <br>\n</br>
+       <br>I hope you are happy \n</br>
+       <br>আশা করি এখন তুমি খুশি।\n</br>
+       <br>\n</br>
+       <br>Medical service\n</br>
+       <br> চিকিৎসা সেবা।\n</br>
+       <br>\n</br>
+       <br>Test report \n</br>
+       <br>পরীক্ষার রিপোর্ট।\n</br>
+       <br>\n</br>
+       <br>Should be stopped \n</br>
+       <br>থামানো উচিত।\n</br>
+       <br>\n</br>
+       <br>Business product \n</br>
+       <br> ব্যবসার পণ্য।\n</br>
+       <br>\n</br>
+       <br>Its just as I expected \n</br>
+       <br>ঠিক যেমনটি আমি ভেবেছিলাম।\n</br>
+       <br>\n</br>
+       <br>My word will come true inshallah \n</br>
+       <br> আমার কথা সত্য হবে ইনশাআল্লাহ।\n</br>
+       <br>\n</br>
+       <br>I will stay up for you \n</br>
+       <br>আমি তোমার জন্য অপেক্ষা করবো।\n</br>
+       <br>\n</br>
+       <br>I could not expect it\n</br>
+       <br>আমি এটা আশা করিনি।\n</br>
+       <br>\n</br>
+       <br>Maybe things are going to be bad  \n</br>
+       <br>হয়তো খারাপ কিছু ঘটতে যাচ্ছে।\n</br>
+       <br>\n</br>
+       <br>Its a good omen\n</br>
+       <br>এটা একটা ভালো সংকেত।\n</br>
+       <br>\n</br>
+       <br>Hand it over to me \n</br>
+       <br>ওটা আমার হাতে দিয়ে দিন।\n</br>
+       <br>\n</br>
+       <br>Let go of that\n</br>
+       <br> দিয়ে দাও ওটা।\n</br>
+       <br>\n</br>
+       <br>Monthly salary \n</br>
+       <br>মাসিক বেতন।\n</br>
+       <br>\n</br>
+       <br>Family cost\n</br>
+       <br>পারিবারিক খরচ ।\n</br>
+           <br>\n</br>
+       <br>Are you still enjoy it? \n</br>
+       <br>তুমি কি এখনো মজা পাচ্ছো?\n</br>
+       <br>\n</br>
+       <br>When does the fun start\n</br>
+       <br>মজাটা কখন শুরু হবে?\n</br>
+       <br>\n</br>
+       <br>Whats amusing in it?\n</br>
+       <br>এতে মজার কি হলো?\n</br>
+       <br>\n</br>
+       <br>Whats important in it?\n</br>
+       <br>এটা গুরুত্বপূর্ণ কি আছে?\n</br>
+       <br>\n</br>
+       <br>I feel sleepy\n</br>
+       <br>আমার ঘুম পাচ্ছে।\n</br>
+
+       <br>\n</br>
+
+
+    <br>I almost died\n</br>
+      <br>- আমি মরে যাচ্ছিলাম।-\n</br>
+<br>\n</br>
+    <br>You are everything to me\n</br>
+      <br>- তুমি আমার সবকিছু।\n</br>
+<br>\n</br>
+      <br>You are never to me than myself\n</br>
+      <br>- তুমি আমার নিজের চেয়েও আপন।\n</br>
+<br>\n</br>
+     <br> That’s enough of that\n</br>
+     <br> - যথেষ্ট হয়েছে।\n</br>
+<br>\n</br>
+     <br> Will you stop now?\n</br>
+     <br> - থামবে এখন?\n</br>
+<br>\n</br>
+      <br>Is there anything else\n</br>
+      <br> - আর কিছু?\n</br>
+<br>\n</br>
+      <br>Are you mad or something?\n</br>
+      <br> - তুমি কি পাগল নাকি অন্য কিছু?\n</br>
+<br>\n</br>
+     <br> Do you know what you have done?\n</br>
+      <br>- তুমি জানো তুমি কি করেছো?\n</br>
+<br>\n</br>
+      <br>How could you have done this?\n</br>
+      <br>তুমি এটা কিভাবে করতে পারলে?\n</br>
+<br>\n</br>
+     <br> Well let me remember\n</br>
+      <br>- আচ্ছা মনে করে নেই।\n</br>
+<br>\n</br>
+
+ <br>You know what I mean\n</br>
+   <br> - তুমি জানো আমি কি বলতে চাচ্ছি।\n</br>
+<br>\n</br>
+    <br>Don’t exchange your substance for shadow.\n</br>
+   <br> অনিশ্চিতের আশায় নিশ্চিত ছেড়োনা।\n</br>
+<br>\n</br>
+   <br> keep your voice down\n</br>
+    <br>গলা নামিয়ে কথা বল।\n</br>
+<br>\n</br>
+    <br>keep your eyes down\n</br>
+    <br>চোখ নামিয়ে কথা বল।\n</br>
+<br>\n</br>
+    <br>I will slap off your teeth\n</br>
+    <br>থাপ্পর দিয়ে দাঁত ফেলে দিব।\n</br>
+<br>\n</br>
+    <br>Don’t show your temper to me\n</br>
+    <br>আমার দিকে চোখ পাকিও না।\n</br>
+<br>\n</br>
+    <br>There is no point in repenting like this.\n</br>
+    <br>এভাবে আফসোস করার কোনো মানে হয়না।\n</br>
+<br>\n</br>
+    <br>There is no point in scolding him.\n</br>
+    <br>এভাবে বকাঝকা করার কোনো মানে হয়না।\n</br>
+<br>\n</br>
+    <br>There is no point in getting anger.\n</br>
+    <br>এভাবে রাগ দেখানোর কোনো মানে হয়না।\n</br>
+<br>\n</br>
+    <br>There is no point in prolonging speech.\n</br>
+    <br>এভাবে কথা বাড়ানোর কোনো মানে হয়না।\n</br>
+<br>\n</br>
+  <br>Please stay a little more.\n</br>
+    <br>আরেকটু বসুননা/থাকুননা।\n</br>
+<br>\n</br>
+   <br> I am yet to eat.\n</br>
+    <br>আমার খেতে দেরি আছে।\n</br>
+<br>\n</br>
+    <br>I am yet to go.\n</br>
+    <br>আমার যেতে দেরি আছে\n</br>
+
+<br>\n</br>
+       <br>I went to the Dhaka and then go to Rangpur.\n</br>
+  <br> আমি ঢাকা গিয়েছিলাম তারপর রংপুর।\n</br>
+<br>\n</br>
+   <br>I am looking forward to seeing you.\n</br>
+   <br>তোমাকে দেখার জন্য অপেক্ষায় আছি।\n</br>
+<br>\n</br>
+   <br>I am fond of you.\n</br>
+  <br> তোমাকে আমার ভাল লাগে।\n</br>
+<br>\n</br>
+   <br>It has been nice having you.\n</br>
+   <br>তোমাকে পেয়ে ভাল লাগছিল।\n</br>
+<br>\n</br>
+   <br>I have a Long way to go.\n</br>
+  <br> আমার অনেক পথ পাড়ি দিতে হবে।\n</br>
+<br>\n</br>
+   <br>Nobody is allowed to smoke here.\n</br>
+   <br>এখানে ধুমপাম নিষেধ।\n</br>
+<br>\n</br>
+  <br>How am I looking?\n</br>
+  <br> আমাকে কেমন দেখাচ্ছে?\n</br>
+<br>\n</br>
+   <br>Give me a hand.\n</br>
+  <br> আমাকে সাহায্য কর।\n</br>
+<br>\n</br>
+   <br>Guess what I got for you?\n</br>
+   <br>বলোতো তোমার জন্য কি এনেছি?\n</br>
+<br>\n</br>
+   <br>Is there anything I can do?\n</br>
+   <br>এখানে কি আমার কিছু করার আছে?\n</br>
+<br>\n</br>
+   <br>It has been so long.\n</br>
+   <br>অনেকদিন পর।\n</br>
+<br>\n</br>
+   <br> I got no sleep last night.\n</br>
+  <br> গতরাতে একদম ঘুমাতে পারিনি।\n</br>
+<br>\n</br>
+   <br> I read walking.\n</br>
+  <br> আমি হেঁটে পড়ি।\n</br>
+<br>\n</br>
+  <br> He asked me to do it.\n</br>
+   <br>তিনি এটি আমাকে করতে বলেছিলেন।\n</br>
+<br>\n</br>
+   <br>When did the accident occurs?\n</br>
+     <br> দূর্ঘটনাটি কখন ঘটেছিল?\n</br>
+<br>\n</br>
+       <br> Don’t stress, do your best forgetthe rest.\n</br>
+       <br> চাপ নিওনা,নিজের ভালোটা দাও,বাকি সব ভুলে যাও।\n</br>
+<br>\n</br>
+       <br> May all your wishes come true.\n</br>
+        <br>তোমার সব কামনা বাস্তবে পরিণত হউক।\n</br>
+<br>\n</br>
+        <br> Can I get a Window seat?\n</br>
+             <br>আমি কি জানালার পাশের আসন পেতে পারি?\n</br>
+<br>\n</br>
+             <br>Stay in your limit.\n</br>
+             <br>সীমা ছাড়িও না।\n</br>
+<br>\n</br>
+            <br> I havent been there.\n</br>
+            <br> আমি সেখানে ছিলাম না।\n</br>
+       <br>\n</br>
+            <br> Have you eaten yet?\n</br>
+             <br>তুমি খেয়োছো?\n</br>
+       <br>\n</br>
+            <br> When do you arrive in the London?\n</br>
+            <br> আপনি কবে লন্ডনে এসেছেন?\n</br>
+<br>\n</br>
+            <br> Bring me my shirt please.\n</br>
+            <br> অনুগ্রহ করে আমার শার্ট এনে দাও।\n</br>
+<br>\n</br>
+           <br>  I forget it\n</br>
+           <br> আমি এটা ভুলে গেছি।\n</br>
+<br>\n</br>
+            <br> Mother hasnt eaten as yet.\n</br>
+            <br> মা এখনো খাননি।\n</br>
+<br>\n</br>
+            <br> He hasnt come round as yet.\n</br>
+            <br> তিনি এখনো সুস্থ হননি।\n</br>
+<br>\n</br>
+            <br> He hasnt come as yet.\n</br>
+            <br> সে এখনো আসেনি।\n</br>
+<br>\n</br>
+            <br> I have pain in my hand.\n</br>
+           <br>  হাত ব্যাথা করছে।\n</br>
+<br>\n</br>
+             <br>I have nothing left to lose.\n</br>
+             <br>আমার হারানোর কিছু বাকি নেই।\n</br>
+<br>\n</br>
+            <br> I have nothing left to say.\n</br>
+            <br> আমার বলার কিছু নেই।\n</br>
+<br>\n</br>
+            <br> I have got nothing left to say.\n</br>
+            <br> আমি কিছু বলার বাকি রাখিনি।\n</br>
+<br>\n</br>
+            <br> Nothing happens without reason.\n</br>
+            <br> কারন ছাড়া কিছু ঘটেনা।\n</br>
+<br>\n</br>
+             <br>Blessed be your tongue.\n</br>
+            <br> তোমার মুখে ফুল চন্দন ফুটুক।\n</br>
+
+<br>\n</br>
+            <br> You ought to be more careful.\n</br>
+            <br> তোমার আরো সর্তক হওয়া উচিত।\n</br>
+<br>\n</br>
+            <br> It was done in advertently.\n</br>
+            <br> ভুল বশত এটি হয়েছে।\n</br>
+<br>\n</br>
+             <br>How long have you been here?\n</br>
+            <br> এখানে তুমি কতদিন আছো?\n</br>
+<br>\n</br>
+             <br>Did you take medicine?\n</br>
+             <br>ঔষধ খেয়েছিলে?\n</br>
+<br>\n</br>
+             <br>Did you get my e-mail?\n</br>
+            <br> তুমি কি আমার ইমেইল পেয়েছিলে?\n</br>
+<br>\n</br>
+            <br> He studies at Harvard University.\n</br>
+             <br>সে হার্ভার্ড বিশ্ববিদ্যালয়ে পড়াশোনা করে।\n</br>
+<br>\n</br>
+             <br>Across from the post office.\n</br>
+             <br>পোস্ট অফিসের বিপরীতে।\n</br>
+<br>\n</br>
+            <br> Hows business going?\n</br>
+            <br> ব্যবসা কেমন চলছে?\n</br>
+<br>\n</br>
+             <br>There is a shop near here.\n</br>
+             <br>কাছেই একটি দোকান আছে।\n</br>
+<br>\n</br>
+             <br>I will give you a call.\n</br>
+             <br>আমি তোমাকে ফোন দিব।\n</br>
+<br>\n</br>
+             <br>They arrived yesterday.\n</br>
+            <br> তারা গতকাল পৌছাইছে।\n</br>
+<br>\n</br>
+            <br> Have you arrived?\n</br>
+           <br>  তুমি পৌছাইছো?\n</br>
+<br>\n</br>
+             <br>Go straight ahead.\n</br>
+             <br>সোজা সামনের দিকে যাও।\n</br>
+<br>\n</br>
+            <br> Does this road go to Rampur?\n</br>
+             <br>এই রাস্তা কি রামপুর এর দিকে গেছে?\n</br>
+<br>\n</br>
+             <br>A round trip ticket.\n</br>
+            <br> যাওয়া-আসার টিকিট।\n</br>
+<br>\n</br>
+            <br> One Way Ticket.\n</br>
+            <br> যাবার টিকিট।\n</br>
+<br>\n</br>
+             <br>Sorry for keeping you waiting.\n</br>
+             <br>তোমাকে অপেক্ষায় রাখার জন্য দুঃখিত।\n</br>
+<br>\n</br>
+            <br> I am allergic to seafood.\n</br>
+               <br>আমার সামুদ্রিক খাবারে এলার্জি/অনীহা আছে।\n</br>
+<br>\n</br>
+               <br>I am allergic to cricket.\n</br>
+               <br>আমার ক্রিকেটে এলার্জি/অনীহা আছে।\n</br>
+<br>\n</br>
+              <br> I speak a little English.\n</br>
+               <br>আমি খুব কম ইংরেজি বলতে পারি।\n</br>
+<br>\n</br>
+               <br>Have you ever went to Paris?\n</br>
+               <br>তুমি কি কখনো প্যারিস গিয়েছো?\n</br>
+<br>\n</br>
+               <br>What time would you make it?\n</br>
+               <br>তুমি এটা কখন পারবে?\n</br>
+<br>\n</br>
+               <br>It is five past three.\n</br>
+               <br>৩টা বেজে ৫মিনিট।\n</br>
+<br>\n</br>
+               <br>Three minutes to four.\n</br>
+               <br>৪টা বাজতে ৩মিনিট বাকি।\n</br>
+<br>\n</br>
+                <br>He turned me mad.\n</br>
+               <br>সে আমাকে পাগল করে দিয়েছে।\n</br>
+<br>\n</br>
+               <br>Many happy returns.\n</br>
+              <br> অনেক শুভকামনা।\n</br>
+<br>\n</br>
+               <br>I know nothing in this connection.\n</br>
+               <br>আমি এ বিষয়ে কিছু জানি না।\n</br>
+<br>\n</br>
+               <br>It was unwise of me to say.\n</br>
+               <br>এটা বলা আমার ঠিক হয়নি।\n</br>
+<br>\n</br>
+            <br>I don’t recognise you.\n</br>
+              <br>আমি তোমাকে চিনতে পারছিনা।\n</br>
+<br>\n</br>
+              <br>Good to see you.\n</br>
+              <br>দেখে ভালো লাগলো।\n</br>
+<br>\n</br>
+              <br>Please give me a little water.\n</br>
+             <br> একটু পানি দিন তো।\n</br>
+<br>\n</br>
+             <br> Forget what happened.\n</br>
+             <br> যা হবার হয়ে গেছে, ভুলে যাও।\n</br>
+       <br>\n</br>
+              <br>What about you?\n</br>
+             <br> তোমার খবর কি?\n</br>
+<br>\n</br>
+             <br> why are you so up today?\n</br>
+              <br>তোমাকে আজ এতো খুশি খুশি দেখাচ্ছে কেন?\n</br>
+<br>\n</br>
+              <br>Why you look so down?\n</br>
+              <br>তোমাকে মন খারাপ দেখাচ্ছে কেন?\n</br>
+<br>\n</br>
+             <br> Will you shut up?\n</br>
+              <br>তুমি কি চুপ করবে?\n</br>
+<br>\n</br>
+              <br>Why have you left me?\n</br>
+             <br> তুমি আমাকে ছেড়ে গেছো কেন?\n</br>
+<br>\n</br>
+              <br>Why have you forgotten me?\n</br>
+              <br>তুমি আমাকে ভুলে গেছো কেন?\n</br>
+<br>\n</br>
+              <br>Reply to my question.\n</br>
+              <br>আমার প্রশ্নের উত্তর দাও।\n</br>
+<br>\n</br>
+              <br>Why don’t you see me often?\n</br>
+              <br>আমার সাথে ঘন ঘন দেখা করোনা কেন?\n</br>
+<br>\n</br>
+              <br>Why are you doing so much grumbling and mumbling?\n</br>
+              <br>এতো ঘ্যান ঘ্যান প্যান প্যান করছো কেন?\n</br>
+<br>\n</br>
+             <br> Why do you show me so much ifs and buts?\n</br>
+              <br>এতো অজুহাত দেখাচ্ছো কেন?\n</br>
+<br>\n</br>
+              <br>Tell me on my face.\n</br>
+              <br>আমার দিকে তাকিয়ে বলো।\n</br>
+<br>\n</br>
+              <br>Look on my face.\n</br>
+             <br> আমার দিকে তাকাও।\n</br>
+<br>\n</br>
+             <br> What do you think of yourself?\n</br>
+             <br> নিজেকে কি মনে কর?\n</br>
+<br>\n</br>
+              <br>Mind your own business.\n</br>
+            <br>  নিজের চরকায় তেল দাও।\n</br>
+<br>\n</br>
+             <br> Don not grow so far.\n</br>
+       <br> এতদূর বাড়বে না\n</br>
+<br>\n</br>
+             <br> Hold your tongue.\n</br>
+              <br>মুখ সামলে কথা বল।\n</br>
+<br>\n</br>
+              <br>Keep your fingers down.\n</br>
+              <br>আংগুল নামিয়ে কথা বল।\n</br>
+<br>\n</br>
+             <br> What are nuisance!\n</br>
+             <br> কি আপদ রে বাবা!\n</br>
+<br>\n</br>
+             <br> Nothing like force.\n</br>
+              <br>ঠেলার নাম বাবাজি।\n</br>
+<br>\n</br>
+             <br> Who are you to interfere here?\n</br>
+              <br>এখানে তুমি নাক গলানোর কে?\n</br>
+<br>\n</br>
+             <br> Did I say anything wrong?\n</br>
+              <br>আমি কি ভুল কিছু বলেছি?\n</br>
+<br>\n</br>
+              <br>Bluffing a little.\n</br>
+              <br>চাপাবাজি কম করো।\n</br>
+<br>\n</br>
+              <br>My head is getting hot.\n</br>
+              <br>আমার মাথা গরম হয়ে যাচ্ছে।\n</br>
+<br>\n</br>
+              <br>You must not see anything with half an eye.\n</br>
+              <br>ঘুঘু দেখেছ ফাঁদ দেখনি।\n</br>
+<br>\n</br>
+              <br>I got a lot of patience.\n</br>
+              <br>আমি অনেক ধৈর্য্য ধরেছি।\n</br>
+<br>\n</br>
+              <br>Stop speaking use of others.\n</br>
+              <br>পরনিন্দা বন্ধ করো।\n</br>
+<br>\n</br>
+              <br>It goes without saying that.\n</br>
+              <br>এটা বলার অপেক্ষা রাখে না।\n</br>
+<br>\n</br>
+              <br>I am coming to pick you up.\n</br>
+              <br>আমি তোমাকে নিতে এসেছি।\n</br>
+<br>\n</br>
+             <br> So far so good.\n</br>
+              <br>এ পর্যন্ত সবই ভালো।\n</br>
+<br>\n</br>
+              <br>Next to impossible.\n</br>
+              <br>প্রায় অসম্ভব।\n</br>
+<br>\n</br>
+              <br>I wish, I had skylimit time.\n</br>
+             <br> আমার যদি অফুরন্ত সময় থাকতো।\n</br>
+<br>\n</br>
+             <br> I know him out and out.\n</br>
+             <br> আমি তাকে হাড়ে হাড়ে চিনি।\n</br>
+<br>\n</br>
+              <br>Get down to work.\n</br>
+             <br> কাজে যাও।\n</br>
+<br>\n</br>
+             <br> Do you want me to come and pick you up.\n</br>
+              <br>তুমি কি চাও, আমি এসে তোমাকে নিয়ে যাই?\n</br>
+<br>\n</br>
+              <br>What harm have I done to you?\n</br>
+              <br>আমি তোমার কি ক্ষতি করেছি?\n</br>
+<br>\n</br>
+              <br>Are you getting me?\n</br>
+              <br>তুমি কি আমার কথা বুঝতে পারছো?\n</br>
+<br>\n</br>
+              <br>Why do you look blank at me?\n</br>
+              <br>আমার দিকে ফ্যালফ্যাল করে চেয়ে আছো কেন?\n</br>
+<br>\n</br>
+              <br>Why do you hum and haw?\n</br>
+              <br>আমতা আমতা করো কেন?\n</br>
+<br>\n</br>
+              <br>Who are you to say?\n</br>
+              <br>তুমি বলার কে?\n</br>
+<br>\n</br>
+              <br>what do you do for living?\n</br>
+              <br>আপনি কি কাজ(পেশা) করেন?\n</br>
+<br>\n</br>
+              <br>Will you remind me?\n</br>
+              <br>তুমি আমাকে মনে করিয়ে দেবে?\n</br>
+<br>\n</br>
+              <br>When does he arrive?\n</br>
+              <br>সে কখন এসে পৌছাবে?\n</br>
+<br>\n</br>
+              <br>When do we arrive?\n</br>
+              <br>আমরা কখন আসব?\n</br>
+<br>\n</br>
+              <br>When do we leave?\n</br>
+             <br> আমরা কখন যাব?\n</br>
+<br>\n</br>
+
+              <br>Have your say.\n</br>
+              <br>তোমার কথা বলো।\n</br>
+<br>\n</br>
+              <br>Don’t tackle me.\n</br>
+             <br> সুড়সুড়ি দিওনা।\n</br>
+
+<br>\n</br>
+              <br>Turn around.\n</br>
+              <br>ঘুরে দাড়াও।\n</br>
+<br>\n</br>
+              <br>Be back latter.\n</br>
+              <br>পরে আসবো।\n</br>
+<br>\n</br>
+              <br>Be right back.\n</br>
+              <br>এক্ষুনি আসছি।\n</br>
+<br>\n</br>
+             <br> Who else?\n</br>
+              <br>আর কে?\n</br>
+<br>\n</br>
+              <br>Talk to you later.\n</br>
+              <br>পরে কথা বলছি।\n</br>
+<br>\n</br>
+              <br>Stay in touch.\n</br>
+              <br>যোগাযোগ রেখো।\n</br>
+<br>\n</br>
+             <br> Keep it to me.\n</br>
+              <br>এটা আমার উপর ছেড়ে দাও।\n</br>
+<br>\n</br>
+              <br>As far as I know.\n</br>
+              <br>আমি যতদুর জানি।\n</br>
+<br>\n</br>
+              <br>Help yourself.\n</br>
+              <br>নিজেকে সাহায্য কর।\n</br>
+<br>\n</br>
+              <br>Make it into a parcel.\n</br>
+              <br>কাগজে মুড়ে দিন।\n</br>
+<br>\n</br>
+              <br>After death comes the doctor.\n</br>
+              <br>চোর পালালে বুদ্ধি বাড়ে\n</br>
+<br>\n</br>
+              <br>Grasp all loose all.\n</br>
+             <br> অতি লোভে তাঁতী নষ্ট.\n</br>
+<br>\n</br>
+              <br>As you sow, so you reap\n</br>
+              <br>যেমন কর্ম তেমন ফল.\n</br>
+<br>\n</br>
+             <br> Patience has its rewards.\n</br>
+             <br> সবুরে মেওয়া ফলে\n</br>
+<br>\n</br>
+             <br> When the danger is gone, God is forgotten.\n</br>
+              <br>বিপদ কেটে গেলেই আল্লাহকে ভুলে যায়।\n</br>
+<br>\n</br>
+             <br> All is well that ends well.\n</br>
+              <br>শেষ ভাল যার, সব ভালো তার\n</br>
+<br>\n</br>
+             <br> Might is right.\n</br>
+              <br>জোর যার মুলুক তার\n</br>
+       <br>\n</br>
+              <br>One nail drives another.\n</br>
+              <br>কাঁটা দিয়ে কাঁটা তোলা।\n</br>
+<br>\n</br>
+              <br>To rob peter, to pay Poul.\n</br>
+             <br>  জুতা মেরে গরু দান\n</br>
+<br>\n</br>
+              <br>Look before you leap.\n</br>
+              <br>দেখে শুনে পা বাড়াও\n</br>
+<br>\n</br>
+       <br>\n</br>
+    </string>
+
+<!--    // end of the part of vocabulary area-->
+    <string name="privacy_policy">
+ <br>\n</br>
+
+<br>Asaduzzaman Shahin built the Easy To English  app as a Educational app. This SERVICE is provided
+    Asaduzzaman Shahin and is intended for use as is.
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure
+    of Personal Information if anyone decided to use our Service.\n</br>
+<br>If you choose to use our Service, then you agree to the collection and use of information in relation
+    to this policy. The Personal Information that we collect is used for providing and improving the Service.
+    We will not use or share your information with anyone except as described in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible
+    at Easy To English  unless otherwise defined in this Privacy Policy.\n</br>
+ <br>\n</br>
+
+<br>Information Collection and Use\n</br>
+         <br>\n</br>
+<br>For a better experience, while using our Service, we may require you to provide us with certain personally
+    identifiable information, including but not limited to Device IDs. The information that we request will be
+    retained by Asaduzzaman Shahin  and used as described in this privacy policy.
+    The app does use third party services that may collect information used to identify you.
+    Link to privacy policy of third party service providers used by the app\n</br>
+        <br>\n</br>
+    <b>read more:https://sites.google.com/view/easytoenglish/home</b>
+        <br>\n</br>
+       <b> Contact Emai: ashahin1995@gmail.com</b>
+         <br>\n</br>
+
+
+
+    </string>
+</resources>
